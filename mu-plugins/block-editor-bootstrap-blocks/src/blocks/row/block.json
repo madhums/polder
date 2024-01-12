@@ -1,0 +1,36 @@
+{
+	"apiVersion": 2,
+	"name": "bootstrap/row",
+	"title": "Bootstrap row",
+	"category": "bootstrap",
+	"description": "Bootstrap row",
+	"keywords": [ "container", "layout", "grid", "columns", "section" ],
+	"textdomain": "bootstrap",
+	"attributes": {
+		"alignItems": {
+			"type": "object",
+			"default": {}
+		},
+		"justifyContent": {
+			"type": "object",
+			"default": {}
+		},
+		"gutter": {
+			"type": "object",
+			"default": {}
+		},
+		"rowCols": {
+			"type": "object",
+			"default": {}
+		}
+	},
+	"supports": {
+		"anchor": true,
+		"align": [ "wide", "full" ],
+		"html": false,
+		"color": {
+			"gradients": true,
+			"link": true
+		}
+	}
+}

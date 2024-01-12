@@ -1,0 +1,43 @@
+{
+	"apiVersion": 2,
+	"name": "bootstrap/accordion-item",
+	"title": "Bootstrap accordion item",
+	"category": "bootstrap",
+	"parent": [ "bootstrap/accordion" ],
+	"description": "Bootstrap accordion item",
+	"textdomain": "bootstrap",
+	"attributes": {
+		"accordionItemIndex": {
+			"type": "integer",
+			"default": 0
+		},
+		"accordionRootId": {
+			"type": "string"
+		},
+		"accordionOpened": {
+			"type": "boolean",
+			"default": false
+		},
+		"accordionAlwaysOpen": {
+			"type": "boolean",
+			"default": false
+		},
+		"accordionItemTitle": {
+			"type": "string"
+		},
+		"accordionButtonWrapper": {
+			"type": "string",
+			"default": "div"
+		}
+	},
+	"supports": {
+		"anchor": true,
+		"reusable": false,
+		"inserter": false,
+		"html": false,
+		"color": {
+			"gradients": true,
+			"link": true
+		}
+	}
+}

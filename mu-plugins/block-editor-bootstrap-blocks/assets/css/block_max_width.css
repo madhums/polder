@@ -1,0 +1,17 @@
+.wp-block{
+	max-width: calc( 2 * var(--halfInnerContainer) );
+}
+
+.wp-block[data-align=wide],
+[data-align=wide] > .wp-block{
+	max-width: 75vw;
+}
+
+.wp-block[data-align=full],
+[data-align=full] > .wp-block{
+	max-width: none;
+}
+
+.wp-block.is-reusable{
+	max-width: none;
+}

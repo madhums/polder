@@ -1,0 +1,39 @@
+{
+	"apiVersion": 2,
+	"name": "bootstrap/row-column",
+	"title": "Bootstrap column",
+	"category": "bootstrap",
+	"parent": [ "bootstrap/row" ],
+	"description": "Bootstrap column",
+	"textdomain": "bootstrap",
+	"attributes": {
+		"size": {
+			"type": "object",
+			"default": {}
+		},
+		"offset": {
+			"type": "object",
+			"default": {}
+		},
+		"order": {
+			"type": "object",
+			"default": {}
+		},
+		"alignSelf": {
+			"type": "object",
+			"default": {}
+		},
+		"templateLock": {
+			"enum": [ "all", "insert", false ]
+		}
+	},
+	"supports": {
+		"anchor": true,
+		"reusable": false,
+		"html": false,
+		"color": {
+			"gradients": true,
+			"link": true
+		}
+	}
+}
