@@ -17,10 +17,13 @@ if ( have_posts() ) :
         ?><div class="d-flex container-fluid" style="height:20vh;"></div>
     <?php } ?>
 
-    <div id="container-content-single" class="container p-5 bg-light" style="margin-top:-100px">
-        <div class="row text-center">
+    <div id="container-content-single" class="container p-5 bg-body-tertiary rounded" style="margin-top:-150px">
 
-            <div class="col-md-12">
+        <div class="row">
+            <div class="col-md-8 offset-md-2">
+                <!-- Display breadcrumbs -->
+                <?php include get_stylesheet_directory() . '/partials/breadcrumbs.php'; ?>
+
                 <?php
                 //CATS
                 if (!get_theme_mod("singlepost_disable_entry_cats") &&  has_category() ) {

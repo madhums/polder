@@ -146,3 +146,7 @@ function publication_setup_post_type() {
 }
 add_action( 'init', 'publication_setup_post_type' );
 
+function add_page_excerpt_support() {
+    add_post_type_support( 'page', 'excerpt' );
+}
+add_action( 'init', 'add_page_excerpt_support' );
