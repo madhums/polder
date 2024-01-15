@@ -108,3 +108,15 @@ nav.navbar .navbar-collapse > ul.navbar-nav {
     margin-right: unset !important;
     @extend .ms-auto;
 }
+
+// team section
+
+.tsbTeamMembers .memberDetails > * {
+    color: unset !important;
+}
+
+@include media-breakpoint-up(xl) {
+    .tsbTeamMembers.columns-3 {
+        grid-template-columns: repeat(4,1fr) !important;
+    }
+}

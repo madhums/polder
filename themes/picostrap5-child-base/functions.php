@@ -150,3 +150,14 @@ function add_page_excerpt_support() {
     add_post_type_support( 'page', 'excerpt' );
 }
 add_action( 'init', 'add_page_excerpt_support' );
+
+
+function picostrap_all_excerpts_get_more_link( $post_excerpt ) {
+    if ( ! is_admin() OR ( isset($_POST['action']) && $_POST['action'] == 'lc_process_dynamic_templating_shortcode') ) {
+        $post_excerpt = $post_excerpt . '...<p class="text-start"><a class="btn btn-outline-secondary picostrap-read-more-link mt-3" href="' . esc_url( get_permalink( get_the_ID() ) ) . '">' . __(
+            'Read More...',
+            'picostrap5'
+        ) . '</a></p>';
+    }
+    return $post_excerpt;
+}
