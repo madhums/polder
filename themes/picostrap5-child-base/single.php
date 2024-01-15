@@ -17,10 +17,10 @@ if ( have_posts() ) :
         ?><div class="d-flex container-fluid" style="height:20vh;"></div>
     <?php } ?>
 
-    <div id="container-content-single" class="container p-5 bg-body-tertiary rounded" style="margin-top:-150px">
-
+    <div id="container-content-single" class="container p-5 bg-body rounded" style="margin-top:-150px">
         <div class="row">
-            <div class="col-md-8 offset-md-2">
+
+            <div class="col-md-10 offset-md-1">
                 <!-- Display breadcrumbs -->
                 <?php include get_stylesheet_directory() . '/partials/breadcrumbs.php'; ?>
 
@@ -39,7 +39,7 @@ if ( have_posts() ) :
 
                 ?>
 
-                <h1 class="display-4"><?php the_title(); ?></h1>
+                <h1 class="display-4 fw-medium"><?php the_title(); ?></h1>
 
                 <?php if (!get_theme_mod("singlepost_disable_date") OR !get_theme_mod("singlepost_disable_author")  ): ?>
                     <div class="post-meta" id="single-post-meta">
@@ -59,7 +59,7 @@ if ( have_posts() ) :
             </div><!-- /col -->
         </div>
         <div class="row">
-            <div class="col-md-8 offset-md-2">
+            <div class="col-md-10 offset-md-1">
                 <?php
 
                 the_content();
