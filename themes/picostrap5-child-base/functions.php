@@ -114,6 +114,15 @@ function setup_post_type($type_name, $icon, $plural = null) {
     register_taxonomy_for_object_type( 'post_tag', $type_name );
     add_post_type_support( $type_name, 'thumbnail' );
     add_post_type_support( $type_name, 'excerpt' );
+    add_post_type_support( $type_name, 'revision' );
+    add_post_type_support( $type_name, 'title' ); // Adds support for post titles.
+    add_post_type_support( $type_name, 'editor' ); // Adds support for the post content editor.
+    add_post_type_support( $type_name, 'author' ); // Adds support for displaying and assigning post authors.
+    add_post_type_support( $type_name, 'page-attributes' ); // Adds support for page attributes like parent and template.
+    add_post_type_support( $type_name, 'comments' ); // Adds support for post comments.
+    add_post_type_support( $type_name, 'trackbacks' ); // Adds support for trackbacks.
+    add_post_type_support( $type_name, 'custom-fields' ); // Adds support for custom fields.
+    add_post_type_support( $type_name, 'post-formats' ); // Adds support for post formats.
 }
 
 
