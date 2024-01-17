@@ -120,3 +120,8 @@ nav.navbar .navbar-collapse > ul.navbar-nav {
         grid-template-columns: repeat(4,1fr) !important;
     }
 }
+
+
+.ff-el-form-control {
+    @extend .form-control;
+}

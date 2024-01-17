@@ -138,6 +138,16 @@ add_action( 'init', 'news_setup_post_type' );
 
 
 /**
+ * Event content type
+ */
+
+function event_setup_post_type() {
+    setup_post_type('event', 'calendar');
+}
+add_action( 'init', 'event_setup_post_type' );
+
+
+/**
  * Publication content type
  */
 

@@ -24,21 +24,6 @@ if ( have_posts() ) :
                 <!-- Display breadcrumbs -->
                 <?php include get_stylesheet_directory() . '/partials/breadcrumbs.php'; ?>
 
-                <?php
-                //CATS
-                if (!get_theme_mod("singlepost_disable_entry_cats") &&  has_category() ) {
-                        ?>
-                        <div class="entry-categories">
-                            <span class="screen-reader-text"><?php _e( 'Categories', 'picostrap5' ); ?></span>
-                            <div class="entry-categories-inner">
-                                <?php the_category( ' ' ); ?>
-                            </div><!-- .entry-categories-inner -->
-                        </div><!-- .entry-categories -->
-                        <?php
-                }
-
-                ?>
-
                 <h1 class="display-4 fw-medium"><?php the_title(); ?></h1>
 
                 <?php if (!get_theme_mod("singlepost_disable_date") OR !get_theme_mod("singlepost_disable_author")  ): ?>
