@@ -31,7 +31,7 @@ if ( have_posts() ) :
                         <p class="lead text-secondary">
 
                             <?php if (!get_theme_mod("singlepost_disable_date") ): ?>
-                                <span class="post-date"><?php the_date(); ?> </span>
+                                <span class="post-date fs-6"><?php the_date(); ?> </span>
                             <?php endif; ?>
 
                             <?php if (!get_theme_mod("singlepost_disable_author") ): ?>
@@ -46,14 +46,16 @@ if ( have_posts() ) :
         <div class="row">
             <div class="col-md-10 offset-md-1">
                 <?php if (get_post_type(get_the_ID()) == 'event' ): ?>
-                    <div class="my-2">
-                        <strong><?php _e('Event date', 'picostrap5') ?></strong>: <?php echo get_field('start_date'); ?> <?php echo get_field('start_time'); ?>
-                        <?php if (get_field('end_date')): ?>
-                            - <?php echo get_field('end_date'); ?> <?php echo get_field('end_time'); ?>
-                        <?php endif; ?>
-                    </div>
-                    <div class="mt-2 mb-4">
-                        <strong><?php _e('Location', 'picostrap5') ?></strong>: <?php echo get_field('location'); ?>
+                    <div class="fs-5">
+                        <div class="my-2">
+                            <strong><?php _e('Event date', 'picostrap5') ?></strong>: <?php echo get_field('start_date'); ?> <?php echo get_field('start_time'); ?>
+                            <?php if (get_field('end_date')): ?>
+                                - <?php echo get_field('end_date'); ?> <?php echo get_field('end_time'); ?>
+                            <?php endif; ?>
+                        </div>
+                        <div class="mt-2 mb-4">
+                            <strong><?php _e('Location', 'picostrap5') ?></strong>: <?php echo get_field('location'); ?>
+                        </div>
                     </div>
                 <?php endif; ?>
                 <?php
