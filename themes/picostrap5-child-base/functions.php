@@ -156,12 +156,14 @@ function publication_setup_post_type() {
 }
 add_action( 'init', 'publication_setup_post_type' );
 
+// enable excerpts for pages
 function add_page_excerpt_support() {
     add_post_type_support( 'page', 'excerpt' );
 }
 add_action( 'init', 'add_page_excerpt_support' );
 
 
+// customise read more link for excerpts
 function picostrap_all_excerpts_get_more_link( $post_excerpt ) {
     if ( ! is_admin() OR ( isset($_POST['action']) && $_POST['action'] == 'lc_process_dynamic_templating_shortcode') ) {
         $post_excerpt = $post_excerpt . '...<p class="text-start"><a class="btn btn-outline-secondary picostrap-read-more-link mt-3" href="' . esc_url( get_permalink( get_the_ID() ) ) . '">' . __(
@@ -171,3 +173,19 @@ function picostrap_all_excerpts_get_more_link( $post_excerpt ) {
     }
     return $post_excerpt;
 }
+
+// use widgets for cta
+function add_cta_widget() {
+    register_sidebar(
+        array(
+            'name'          => __( 'Call To Action', 'picostrap5' ),
+            'id'            => 'cta',
+            'description'   => __( 'Call to action for all pages', 'picostrap5' ),
+            'before_widget' => '<div id="%1$s" class="cta-widget %2$s dynamic-classes">',
+            'after_widget'  => '</div><!-- .cta-widget -->',
+            'before_title'  => '<h3 class="widget-title">',
+            'after_title'   => '</h3>',
+        )
+    );
+}
+add_action( 'widgets_init', 'add_cta_widget' );

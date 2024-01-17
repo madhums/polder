@@ -17,6 +17,7 @@ $args = array(
 $news_posts = new WP_Query($args);
 ?>
 <div id="container-content-page" class="container">
+
     <div class="row my-5">
         <?php
 

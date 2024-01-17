@@ -1,11 +1,13 @@
+<?php get_template_part('partials/cta'); ?>
+
 <!-- @todo add acf option to give a classname -->
 <footer>
     <?php
 
     if (is_active_sidebar( 'footerfull' )): ?>
-        <div class="wrapper mt-5 py-5 border-top" id="wrapper-footer-widgets">
+        <div class="wrapper py-5" id="wrapper-footer-widgets">
 
-            <div class="container mb-5 pt-5">
+            <div class="container my-5 pt-5">
 
                 <div class="row">
                     <?php dynamic_sidebar( 'footerfull' ); ?>
@@ -16,7 +18,7 @@
     <?php endif ?>
 
 
-    <div class="wrapper py-3 copyright text-muted" id="wrapper-footer-colophon">
+    <div class="wrapper py-3 copyright" id="wrapper-footer-colophon">
         <div class="container-fluid">
 
             <div class="row">

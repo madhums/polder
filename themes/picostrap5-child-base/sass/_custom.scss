@@ -139,14 +139,29 @@ footer {
     }
     &[class] {
         a {
-            @extend .text-bg-primary;
+            @extend .text-reset;
         }
         .ff-btn-submit {
             @extend .btn;
             @extend .btn-outline-light;
         }
-        .copyright {
-            @extend .bg-dark;
+    }
+}
+
+// cta and block buttons
+#cta {
+    &.text-bg-primary {
+        .wp-block-button__link {
+            @extend .btn;
+            @extend .btn-lg;
+            @extend .btn-outline-light;
+        }
+    }
+    &:not(.text-bg-primary) {
+        .wp-block-button__link {
+            @extend .btn;
+            @extend .btn-lg;
+            @extend .btn-primary;
         }
     }
 }

@@ -13,12 +13,12 @@ This loop is used in the Archive and in the Home [.php] templates.
     </a>
     <div class="card-body px-0">
         <?php if (get_post_type(get_the_ID()) == 'event' ): ?>
-          <span class="text-muted"><?php the_field('start_date'); ?> <?php the_field('start_time'); ?> - <?php the_field('location'); ?></span>
+          <div class="text-muted mb-2"><?php the_field('start_date'); ?> <?php the_field('start_time'); ?> - <?php the_field('location'); ?></div>
         <?php elseif (!get_theme_mod("singlepost_disable_date") && get_post_type(get_the_ID()) != 'lab' ): ?>
           <small class="text-muted"><?php the_date() ?></small>
         <?php endif; ?>
 
-        <h2><?php the_title() ?></h2>
+        <h4><?php the_title() ?></h4>
         <p class="card-text"><?php echo get_the_excerpt(); ?></p>
     </div>
   </div>

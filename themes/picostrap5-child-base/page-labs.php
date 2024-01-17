@@ -17,6 +17,7 @@ $args = array(
 $lab_posts = new WP_Query($args);
 ?>
 <div id="container-content-page" class="container">
+    <?php the_content(); ?>
     <div class="row my-5">
         <?php
 

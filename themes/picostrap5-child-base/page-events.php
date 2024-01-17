@@ -46,6 +46,7 @@ $past = new WP_Query($past_args);
 
 ?>
 <div id="container-content-page" class="container">
+    <?php the_content(); ?>
     <div class="row my-5">
         <div class="col-md-12">
             <h2><?php _e('Upcoming Events', 'picostrap5') ?></h2>
