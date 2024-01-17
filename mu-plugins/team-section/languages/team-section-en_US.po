@@ -1,0 +1,356 @@
+# Copyright (C) 2023 bPlugins LLC
+# This file is distributed under the GPLv3.
+msgid ""
+msgstr ""
+"Project-Id-Version: Team Section - Block 1.0.8\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/team-section\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-08-27T05:10:09+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: team-section\n"
+
+#. Plugin Name of the plugin
+msgid "Team Section - Block"
+msgstr ""
+
+#. Description of the plugin
+msgid "Makes background element scrolls slower than foreground content."
+msgstr ""
+
+#. Author of the plugin
+msgid "bPlugins LLC"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://bplugins.com"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:10137
+msgid "Default"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:10138
+msgid "Theme 1"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:10139
+msgid "Theme 2"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:10140
+msgid "Theme 3"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:10141
+msgid "Theme 4"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:10145
+msgid "Vertical"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:10146
+msgid "Horizontal"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:10150
+msgid "Left"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:10151
+msgid "Center"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:10152
+msgid "Right"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:10156
+msgid "General"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:10157
+msgid "Style"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:10249
+msgid "Add or Remove Members"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:10253
+msgid "Background:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:10255
+msgid "Border:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:10257
+msgid "Shadow:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:10259
+msgid "Photo:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:10260
+msgid "Enter Image URL"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:10264
+msgid "Photo Border:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:10266
+msgid "Name Color:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:10268
+msgid "Designation/Title Color:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:10272
+msgid "Bio Color:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:10274
+msgid "Social Icon Colors:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:10277
+msgid "Remove"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:10279
+msgid "Duplicate"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:10284
+#: dist/editor.js:10508
+msgid "Add New Member"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:10289
+msgid "Layout"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:10291
+msgid "Columns:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:10296
+msgid "Column Gap:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:10298
+msgid "Row Gap:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:10301
+msgid "Layout:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:10319
+msgid "Theme:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:10438
+msgid "Elements"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:10439
+msgid "Show Title"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:10441
+msgid "Show Separator"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:10443
+msgid "Show Bio"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:10445
+msgid "Show Social"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:10447
+msgid "Open Link in New Tab"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:10453
+msgid "Member"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:10455
+msgid "Text Align:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:10459
+msgid "Padding:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:10463
+msgid "Member Photo"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:10464
+msgid "Width:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:10466
+#: dist/editor.js:10473
+#: dist/editor.js:10480
+#: dist/editor.js:10485
+#: dist/editor.js:10492
+msgid "Margin:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:10470
+msgid "Member Name"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:10477
+msgid "Designation/Title"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:10484
+msgid "Separator"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:10489
+msgid "Member Bio"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:10496
+msgid "Member Social"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:10497
+msgid "Icon Size:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:10499
+msgid "Icon Margin:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:10825
+msgid " Member Photo:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:10828
+msgid "Member name"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:10830
+msgid "Member designation/title"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:10834
+msgid "Biography of the member"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:10847
+msgid "Link:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:10856
+msgid "Remove this link"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:10860
+msgid "Add Social Link"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:10872
+msgid "Please add a member first!"
+msgstr ""
+
+#: inc/block.json
+msgctxt "block title"
+msgid "Team Section"
+msgstr ""
+
+#: inc/block.json
+msgctxt "block description"
+msgid "Showcase team members in various layouts and designs."
+msgstr ""
+
+#: inc/block.json
+msgctxt "block keyword"
+msgid "team"
+msgstr ""
+
+#: inc/block.json
+msgctxt "block keyword"
+msgid "members"
+msgstr ""
+
+#: inc/block.json
+msgctxt "block keyword"
+msgid "team members"
+msgstr ""

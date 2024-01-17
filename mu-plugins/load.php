@@ -2,8 +2,10 @@
 require(WPMU_PLUGIN_DIR . '/advanced-custom-fields-pro/acf.php');
 require(WPMU_PLUGIN_DIR . '/block-editor-bootstrap-blocks/block-editor-bootstrap-blocks.php');
 require(WPMU_PLUGIN_DIR . '/breadcrumb-navxt/breadcrumb-navxt.php');
+require(WPMU_PLUGIN_DIR . '/fluentformpro/fluentformpro.php');
+require(WPMU_PLUGIN_DIR . '/team-section/index.php');
 
-
+// display bootstrap classes in breadcrumbs
 function my_display_attributes_filter($attribs, $types, $id)
 {
     $extra_attribs = array('class' => array('breadcrumb-item'));
