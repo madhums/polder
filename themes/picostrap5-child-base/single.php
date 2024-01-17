@@ -45,6 +45,17 @@ if ( have_posts() ) :
         </div>
         <div class="row">
             <div class="col-md-10 offset-md-1">
+                <?php if (get_post_type(get_the_ID()) == 'event' ): ?>
+                    <div class="my-2">
+                        <strong><?php _e('Event date', 'picostrap5') ?></strong>: <?php echo get_field('start_date'); ?> <?php echo get_field('start_time'); ?>
+                        <?php if (get_field('end_date')): ?>
+                            - <?php echo get_field('end_date'); ?> <?php echo get_field('end_time'); ?>
+                        <?php endif; ?>
+                    </div>
+                    <div class="mt-2 mb-4">
+                        <strong><?php _e('Location', 'picostrap5') ?></strong>: <?php echo get_field('location'); ?>
+                    </div>
+                <?php endif; ?>
                 <?php
 
                 the_content();

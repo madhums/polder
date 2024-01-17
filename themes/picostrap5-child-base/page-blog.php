@@ -25,7 +25,7 @@ $post_posts = new WP_Query($args);
                 get_template_part('partials/cards');
             endwhile;
         else :
-            _e( 'Sorry, no posts matched your criteria.', 'textdomain' );
+            ?> <div class="col-md-12 text-muted py-3"><?php _e( 'There are no blog posts.', 'textdomain' ); ?> </div> <?php
         endif;
         ?>
     </div>

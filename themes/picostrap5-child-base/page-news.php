@@ -25,7 +25,7 @@ $news_posts = new WP_Query($args);
                 get_template_part('partials/cards');
             endwhile;
         else :
-            _e( 'Sorry, no posts matched your criteria.', 'textdomain' );
+            ?> <div class="col-md-12 text-muted py-3"><?php _e( 'There are no news items.', 'textdomain' ); ?> </div> <?php
         endif;
         ?>
     </div>
