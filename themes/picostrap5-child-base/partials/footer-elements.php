@@ -9,7 +9,7 @@
     <?php
 
     if (is_active_sidebar( 'footerfull' )): ?>
-        <div class="wrapper py-5" id="wrapper-footer-widgets">
+        <div class="wrapper py-4" id="wrapper-footer-widgets">
 
             <div class="container my-5 pt-4">
 
