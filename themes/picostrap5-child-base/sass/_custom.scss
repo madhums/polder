@@ -121,7 +121,32 @@ nav.navbar .navbar-collapse > ul.navbar-nav {
     }
 }
 
-
+// general form
 .ff-el-form-control {
     @extend .form-control;
+}
+
+// footer customisation
+footer {
+    &:not([class]) {
+        .ff-btn-submit {
+            @extend .btn;
+            @extend .btn-primary;
+        }
+        .copyright {
+            @extend .border-top;
+        }
+    }
+    &[class] {
+        a {
+            @extend .text-bg-primary;
+        }
+        .ff-btn-submit {
+            @extend .btn;
+            @extend .btn-outline-light;
+        }
+        .copyright {
+            @extend .bg-dark;
+        }
+    }
 }

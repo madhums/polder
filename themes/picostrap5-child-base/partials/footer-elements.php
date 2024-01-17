@@ -1,40 +1,44 @@
-<?php
+<!-- @todo add acf option to give a classname -->
+<footer>
+    <?php
 
-if (is_active_sidebar( 'footerfull' )): ?>
-    <div class="wrapper mt-5 py-5 border-top border-bottom" id="wrapper-footer-widgets">
+    if (is_active_sidebar( 'footerfull' )): ?>
+        <div class="wrapper mt-5 py-5 border-top" id="wrapper-footer-widgets">
 
-        <div class="container mb-5">
+            <div class="container mb-5 pt-5">
+
+                <div class="row">
+                    <?php dynamic_sidebar( 'footerfull' ); ?>
+                </div>
+
+            </div>
+        </div>
+    <?php endif ?>
+
+
+    <div class="wrapper py-3 copyright text-muted" id="wrapper-footer-colophon">
+        <div class="container-fluid">
 
             <div class="row">
-                <?php dynamic_sidebar( 'footerfull' ); ?>
-            </div>
 
-        </div>
-    </div>
-<?php endif ?>
+                <div class="col text-center">
 
+                    <footer class="site-footer" id="colophon">
 
-<div class="wrapper py-3" id="wrapper-footer-colophon">
-    <div class="container-fluid">
+                        <div class="site-info">
 
-        <div class="row">
+                            <?php picostrap_site_info(); ?>
 
-            <div class="col text-center">
+                        </div><!-- .site-info -->
 
-                <footer class="site-footer" id="colophon">
+                    </footer><!-- #colophon -->
 
-                    <div class="site-info">
+                </div><!--col end -->
 
-                        <?php picostrap_site_info(); ?>
+            </div><!-- row end -->
 
-                    </div><!-- .site-info -->
+        </div><!-- container end -->
 
-                </footer><!-- #colophon -->
+    </div><!-- wrapper end -->
 
-            </div><!--col end -->
-
-        </div><!-- row end -->
-
-    </div><!-- container end -->
-
-</div><!-- wrapper end -->
+</footer>
