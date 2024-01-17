@@ -6,7 +6,6 @@ defined( 'ABSPATH' ) || exit;
 get_header();
 ?>
 
-<?php include get_stylesheet_directory() . '/partials/page-header.php'; ?>
 
 <?php
 $upcoming_args = array(
@@ -27,11 +26,7 @@ $upcoming_args = array(
 $upcoming = new WP_Query($upcoming_args);
 ?>
 
-<div class="py-5 border-top">
-    <div class="container py-4">
-        <?php the_content(); ?>
-    </div>
-</div>
+<?php the_content(); ?>
 
 <?php if ( $upcoming->have_posts() ) : ?>
     <div class="py-5 border-top">
