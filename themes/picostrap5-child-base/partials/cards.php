@@ -8,12 +8,11 @@ This loop is used in the Archive and in the Home [.php] templates.
 
 
   <div class="card border-0">
-
     <a href="<?php the_permalink() ?>">
       <?php the_post_thumbnail('medium', ['class' => 'w-100 rounded-top']);    ?>
     </a>
     <div class="card-body px-0">
-        <?php if (!get_theme_mod("singlepost_disable_date") ): ?>
+        <?php if (!get_theme_mod("singlepost_disable_date") && get_post_type(get_the_ID()) != 'lab' ): ?>
           <small class="text-muted"><?php the_date() ?></small>
         <?php endif; ?>
 
