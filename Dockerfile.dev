@@ -1,0 +1,7 @@
+FROM wordpress:latest
+
+ADD mu-plugins /var/www/html/wp-content/mu-plugins
+ADD themes /var/www/html/wp-content/themes
+
+COPY custom.ini $PHP_INI_DIR/conf.d/
+

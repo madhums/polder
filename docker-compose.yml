@@ -1,3 +1,5 @@
+version: '3.7'
+
 services:
   db:
     # If you really want to use MySQL, uncomment the following line
@@ -17,7 +19,12 @@ services:
       - 33060
 
   wordpress:
-    image: wordpress:latest
+    container_name: wordpress
+    depends_on:
+      - db
+    build:
+      context: .
+      dockerfile: Dockerfile.dev
     volumes:
       - ./themes/picostrap5:/var/www/html/wp-content/themes/picostrap5
       - ./themes/picostrap5-child-base:/var/www/html/wp-content/themes/picostrap5-child-base
@@ -31,6 +38,7 @@ services:
       - WORDPRESS_DB_USER=wordpress
       - WORDPRESS_DB_PASSWORD=wordpress
       - WORDPRESS_DB_NAME=wordpress
+      - PHP_INI_UPLOAD_MAX_FILESIZE=64M  # Adjust the value as needed
 
 volumes:
   db_data:
