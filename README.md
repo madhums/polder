@@ -11,7 +11,7 @@ Having the knowledge of this is necessary to spin up the development environment
 - MySQL
 - Bootstrap
 
-## Development set up
+## Development
 
 ```sh
 docker compose up -d
@@ -24,7 +24,7 @@ This will spin up docker, populate all the data from `data/dump.sql`. You can th
 
 You may login to the admin by visiting [http://localhost:8000/wp-admin](http://localhost:8000/wp-admin) (username/password: `admin/admin` )
 
-## Theming
+## Theme
 
 We are using [bootstrap](https://getbootstrap.com/) as our primary design system. We use a child theme of [picostrap5](https://picostrap.com/) which is a bootstrap starter theme. We have couple of custom content types of our own (News, Event, Publication, Lab) which are customised in the child theme.
 
@@ -34,8 +34,8 @@ We use couple of must-use (mu) plugins which you can find within `mu-plugins` di
 
 ## Notes
 
-To take the db dump
+1. To take the db dump
 
-```sh
-docker exec polder-db-1 mysqldump -u wordpress --password=wordpress wordpress > data/dump.sql
-```
+  ```sh
+  docker exec polder-db-1 mysqldump -u wordpress --password=wordpress wordpress > data/dump.sql
+  ```
