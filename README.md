@@ -36,6 +36,6 @@ We use couple of must-use (mu) plugins which you can find within `mu-plugins` di
 
 1. To take the db dump
 
-  ```sh
-  docker exec polder-db-1 mysqldump -u wordpress --password=wordpress wordpress > data/dump.sql
-  ```
+    ```sh
+    docker exec polder-db-1 mysqldump -u wordpress --password=wordpress wordpress > data/dump.sql
+    ```
