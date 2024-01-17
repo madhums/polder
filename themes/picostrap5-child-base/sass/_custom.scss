@@ -173,3 +173,9 @@ footer {
         @extend .mt-2;
     }
 }
+
+.wp-block-button__link {
+    @extend .btn;
+    @extend .btn-lg;
+    @extend .btn-primary;
+}

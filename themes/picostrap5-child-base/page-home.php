@@ -34,7 +34,7 @@ $upcoming = new WP_Query($upcoming_args);
 </div>
 
 <?php if ( $upcoming->have_posts() ) : ?>
-    <div class="py-5 border-top border-bottom">
+    <div class="py-5 border-top">
         <div id="container-content-page" class="container py-4">
             <div class="row">
                 <div class="col-md-12">
