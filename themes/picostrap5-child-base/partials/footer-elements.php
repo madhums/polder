@@ -1,5 +1,9 @@
 <?php get_template_part('partials/cta'); ?>
 
+<?php if (is_page('contact-us') || is_page('collaborate')) : ?>
+    <div class="border-top"></div>
+<?php endif; ?>
+
 <!-- @todo add acf option to give a classname -->
 <footer>
     <?php
@@ -7,7 +11,7 @@
     if (is_active_sidebar( 'footerfull' )): ?>
         <div class="wrapper py-5" id="wrapper-footer-widgets">
 
-            <div class="container my-5 pt-5">
+            <div class="container my-5 pt-4">
 
                 <div class="row">
                     <?php dynamic_sidebar( 'footerfull' ); ?>

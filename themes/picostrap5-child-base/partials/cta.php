@@ -1,7 +1,7 @@
-<?php if ( is_active_sidebar( 'cta' ) ) : ?>
+<?php if ( is_active_sidebar( 'cta' ) && !(is_page( 'contact-us' ) || is_page( 'collaborate' )) ) : ?>
   <div id="cta" class="border-top text-bg-primary">
     <div class="py-5 container">
-        <div class="col-lg-8 offset-2 text-center my-5">
+        <div class="col-lg-8 offset-2 text-center my-5 py-4">
           <?php dynamic_sidebar( 'cta' ); ?>
         </div>
     </div>

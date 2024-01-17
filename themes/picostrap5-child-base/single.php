@@ -43,7 +43,7 @@ if ( have_posts() ) :
 
             </div><!-- /col -->
         </div>
-        <div class="row">
+        <div class="row mb-5 pb-4">
             <div class="col-md-10 offset-md-1">
                 <?php if (get_post_type(get_the_ID()) == 'event' ): ?>
                     <div class="fs-5">

@@ -9,7 +9,7 @@ get_header();
 <?php include get_stylesheet_directory() . '/partials/page-header.php'; ?>
 
 <div id="container-content-page" class="container">
-    <div class="row">
+    <div class="row py-4">
         <div class="col-md-12 py-5">
             <?php
 
