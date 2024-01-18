@@ -18,7 +18,7 @@ This loop is used in the Archive and in the Home [.php] templates.
           <small class="text-muted"><?php the_date() ?></small>
         <?php endif; ?>
 
-        <h4><?php the_title() ?></h4>
+        <h4><a href="<?php the_permalink() ?>" class="text-reset text-decoration-none"><?php the_title() ?></a></h4>
         <p class="card-text"><?php echo get_the_excerpt(); ?></p>
     </div>
   </div>
