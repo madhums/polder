@@ -12,9 +12,9 @@ if ( have_posts() ) :
     while ( have_posts() ) : the_post();
 
     if (get_the_post_thumbnail_url()){
-        ?><div class="d-flex container-fluid" style="height:50vh;background:url(<?php echo get_the_post_thumbnail_url(); ?>)  center / cover no-repeat;"></div>
+        ?><div class="d-flex container-fluid text-bg-primary-25" style="height:50vh;background:url(<?php echo get_the_post_thumbnail_url(); ?>)  center / cover no-repeat;"></div>
     <?php } else {
-        ?><div class="d-flex container-fluid" style="height:20vh;"></div>
+        ?><div class="d-flex container-fluid text-bg-primary-25" style="height:20vh;"></div>
     <?php } ?>
 
     <div id="container-content-single" class="container p-5 bg-body rounded" style="margin-top:-150px">

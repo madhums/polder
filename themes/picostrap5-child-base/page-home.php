@@ -36,7 +36,7 @@ $publications = new WP_Query($publication_query);
 <?php the_content(); ?>
 
 <?php if ( $publications->have_posts() ) : ?>
-    <div class="py-5 border-top">
+    <div class="py-5 border-top text-bg-primary-25">
         <div id="container-content-page" class="container py-4">
             <div class="row">
                 <div class="col-md-12">

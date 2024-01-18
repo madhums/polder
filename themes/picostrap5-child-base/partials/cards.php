@@ -7,7 +7,7 @@ This loop is used in the Archive and in the Home [.php] templates.
 <div class="col-md-6 col-lg-4 col-xl-4 my-5">
 
 
-  <div class="card border-0">
+  <div class="card border-0 bg-transparent">
     <a href="<?php the_permalink() ?>">
       <?php the_post_thumbnail('medium', ['class' => 'w-100 rounded-top']);    ?>
     </a>
