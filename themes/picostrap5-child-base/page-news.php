@@ -11,13 +11,14 @@ get_header();
 <?php
 $args = array(
     'post_type' => 'news',  // Replace 'news' with your actual post type
-    'posts_per_page' => -1, // Display all posts of the 'news' type
+    'posts_per_page' => 15, // Display all posts of the 'news' type
+    'paged' => get_query_var('paged') ? get_query_var('paged') : 1,
 );
 
 $news_posts = new WP_Query($args);
 ?>
 <div id="container-content-page" class="container">
-
+    <?php the_content(); ?>
     <div class="row my-5">
         <?php
 
@@ -29,6 +30,9 @@ $news_posts = new WP_Query($args);
             ?> <div class="col-md-12 text-muted py-3"><?php _e( 'There are no news items.', 'textdomain' ); ?> </div> <?php
         endif;
         ?>
+    </div>
+    <div class="my-5">
+        <?php paginate($news_posts->max_num_pages); ?>
     </div>
 </div>
 

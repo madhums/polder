@@ -107,7 +107,7 @@ function setup_post_type($type_name, $icon, $plural = null) {
         'menu_icon'     => 'dashicons-' . $icon,
         'show_in_rest'  => true,
         'menu_position' => 5,
-        'rewrite'       => array( 'slug' => $type_name, 'with_front' => false ),
+        'rewrite'       => array( 'slug' => $type_name, 'with_front' => false, 'pages' => true ),
     );
 
     register_post_type( $type_name, $args );
@@ -196,3 +196,11 @@ function add_cta_widget() {
     );
 }
 add_action( 'widgets_init', 'add_cta_widget' );
+
+
+function paginate($total = 1) {
+    return picostrap_pagination(array(
+        'total' => $total,
+        // 'format' => '?page=%#%' // @todo look into why this doesn't work
+    ), 'pagination pagination-lg justify-content-center pb-5');
+}

@@ -28,7 +28,8 @@ $upcoming = new WP_Query($upcoming_args);
 
 $past_args = array(
     'post_type' => 'event',
-    'posts_per_page' => -1,
+    'posts_per_page' => 15,
+    'paged' => get_query_var('paged') ? get_query_var('paged') : 1,
     'meta_key' => 'start_date',
     'orderby' => 'meta_value',
     'order' => 'ASC',
@@ -77,6 +78,10 @@ $past = new WP_Query($past_args);
             _e( 'There are no past events', 'textdomain' );
         endif;
         ?>
+    </div>
+
+    <div class="my-5">
+        <?php paginate($past->max_num_pages); ?>
     </div>
 </div>
 
