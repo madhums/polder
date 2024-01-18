@@ -29,11 +29,32 @@ $publication_query = array(
     'posts_per_page' => 3, // Display all posts of the 'publication' type
 );
 
-$publication_posts = new WP_Query($publication_query);
+$publications = new WP_Query($publication_query);
 
 ?>
 
 <?php the_content(); ?>
+
+<?php if ( $publications->have_posts() ) : ?>
+    <div class="py-5 border-top">
+        <div id="container-content-page" class="container py-4">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <h1><?php _e('Recent Publications', 'picostrap5') ?></h1>
+                        </div>
+                        <?php
+                            while ( $publications->have_posts() ) : $publications->the_post();
+                                get_template_part('partials/cards');
+                            endwhile; ?>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+<?php endif; ?>
+
 
 <?php if ( $upcoming->have_posts() ) : ?>
     <div class="py-5 border-top">
@@ -42,7 +63,7 @@ $publication_posts = new WP_Query($publication_query);
                 <div class="col-md-12">
                     <div class="row">
                         <div class="col-md-12">
-                            <h2><?php _e('Upcoming Events', 'picostrap5') ?></h2>
+                            <h1><?php _e('Upcoming Events', 'picostrap5') ?></h1>
                         </div>
                         <?php
                             while ( $upcoming->have_posts() ) : $upcoming->the_post();
@@ -54,7 +75,6 @@ $publication_posts = new WP_Query($publication_query);
         </div>
     </div>
 <?php endif; ?>
-
 
 
 

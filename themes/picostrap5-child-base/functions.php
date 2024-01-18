@@ -185,9 +185,21 @@ function picostrap_all_excerpts_get_more_link( $post_excerpt ) {
 function add_cta_widget() {
     register_sidebar(
         array(
-            'name'          => __( 'Call To Action', 'picostrap5' ),
+            'name'          => __( 'Call To Action - Collaborate', 'picostrap5' ),
             'id'            => 'cta',
-            'description'   => __( 'Call to action for all pages', 'picostrap5' ),
+            'description'   => __( 'Call to action for all pages (except contact and collaborate)', 'picostrap5' ),
+            'before_widget' => '<div id="%1$s" class="cta-widget %2$s dynamic-classes">',
+            'after_widget'  => '</div><!-- .cta-widget -->',
+            'before_title'  => '<h3 class="widget-title">',
+            'after_title'   => '</h3>',
+        )
+    );
+
+    register_sidebar(
+        array(
+            'name'          => __( 'Call To Action - Contact', 'picostrap5' ),
+            'id'            => 'cta_contact',
+            'description'   => __( 'Call to action for collaborate page', 'picostrap5' ),
             'before_widget' => '<div id="%1$s" class="cta-widget %2$s dynamic-classes">',
             'after_widget'  => '</div><!-- .cta-widget -->',
             'before_title'  => '<h3 class="widget-title">',
