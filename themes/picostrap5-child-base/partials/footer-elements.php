@@ -1,6 +1,6 @@
 <?php get_template_part('partials/cta'); ?>
 
-<?php if (is_page('contact-us') || is_page('collaborate')) : ?>
+<?php if (is_page('contact-us')) : ?>
     <div class="border-top"></div>
 <?php endif; ?>
 
