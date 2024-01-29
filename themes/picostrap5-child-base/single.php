@@ -28,7 +28,7 @@ if ( have_posts() ) :
 
                 <?php if ((!get_theme_mod("singlepost_disable_date") OR !get_theme_mod("singlepost_disable_author")) && get_post_type(get_the_ID()) != 'lab' ): ?>
                     <div class="post-meta" id="single-post-meta">
-                        <p class="lead text-secondary">
+                        <p class="text-secondary">
 
                             <?php if (!get_theme_mod("singlepost_disable_date") ): ?>
                                 <span class="post-date fs-6"><?php the_date(); ?> </span>
