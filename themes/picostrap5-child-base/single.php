@@ -26,7 +26,7 @@ if ( have_posts() ) :
 
                 <h1 class="display-4 fw-medium"><?php the_title(); ?></h1>
 
-                <?php if (!get_theme_mod("singlepost_disable_date") OR !get_theme_mod("singlepost_disable_author")  ): ?>
+                <?php if ((!get_theme_mod("singlepost_disable_date") OR !get_theme_mod("singlepost_disable_author")) && get_post_type(get_the_ID()) != 'lab' ): ?>
                     <div class="post-meta" id="single-post-meta">
                         <p class="lead text-secondary">
 
