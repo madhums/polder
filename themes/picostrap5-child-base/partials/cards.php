@@ -9,7 +9,7 @@ This loop is used in the Archive and in the Home [.php] templates.
 
   <div class="card border-0 bg-transparent">
     <a href="<?php the_permalink() ?>">
-      <?php the_post_thumbnail('medium', ['class' => 'w-100 rounded-top']);    ?>
+      <?php the_post_thumbnail('card_thumb', ['class' => 'w-100 rounded-top']);    ?>
     </a>
     <div class="card-body px-0">
         <?php if (get_post_type(get_the_ID()) == 'event' ): ?>

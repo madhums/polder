@@ -216,3 +216,9 @@ function paginate($total = 1) {
         // 'format' => '?page=%#%' // @todo look into why this doesn't work
     ), 'pagination pagination-lg justify-content-center pb-5');
 }
+
+
+function card_image_custom_size() {
+	add_image_size( 'card_thumb', 300, 260, true );
+}
+add_action( 'after_setup_theme', 'card_image_custom_size' );

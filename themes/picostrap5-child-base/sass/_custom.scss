@@ -180,3 +180,11 @@ footer {
     @extend .btn-lg;
     @extend .btn-primary;
 }
+
+.ratio-16x9 iframe {
+    @extend .rounded;
+}
+
+.wp-block-embed__wrapper::before {
+    padding: 0 !important;
+}
