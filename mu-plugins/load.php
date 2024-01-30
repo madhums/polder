@@ -5,6 +5,7 @@ require(WPMU_PLUGIN_DIR . '/breadcrumb-navxt/breadcrumb-navxt.php');
 require(WPMU_PLUGIN_DIR . '/fluentform/fluentform.php');
 require(WPMU_PLUGIN_DIR . '/fluentformpro/fluentformpro.php');
 require(WPMU_PLUGIN_DIR . '/team-section/index.php');
+require(WPMU_PLUGIN_DIR . '/protected-video/protected-video.php');
 
 // display bootstrap classes in breadcrumbs
 function my_display_attributes_filter($attribs, $types, $id)

@@ -181,7 +181,8 @@ footer {
     @extend .btn-primary;
 }
 
-.ratio-16x9 iframe {
+// video player
+.plyr--video, .plyr__poster {
     @extend .rounded;
 }
 
