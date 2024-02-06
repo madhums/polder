@@ -64,6 +64,7 @@ $publications = new WP_Query($publication_query);
                     <div class="row">
                         <div class="col-md-12">
                             <h1><?php _e('Upcoming Events', 'picostrap5') ?></h1>
+                            <p><?php _e('Upcoming events from Polder, IAS and the surrounding ecosystem', 'picostrap5') ?></p>
                         </div>
                         <?php
                             while ( $upcoming->have_posts() ) : $upcoming->the_post();
