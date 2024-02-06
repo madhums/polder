@@ -222,3 +222,24 @@ function card_image_custom_size() {
 	add_image_size( 'card_thumb', 300, 260, true );
 }
 add_action( 'after_setup_theme', 'card_image_custom_size' );
+
+
+// Redirect publication detail pages to the to Publication URL field
+add_action('template_redirect', 'redirect_publication_detail_page');
+
+function redirect_publication_detail_page() {
+    // Check if it's a single post of your custom post type 'publication'
+    if (is_singular('publication')) {
+        global $post;
+
+        // Get the URL field value for the publication
+        $publication_url = get_field('publication_url', $post->ID); // Replace 'your_url_field_name' with the actual name of your URL field
+
+        // Check if the URL field has a value
+        if ($publication_url) {
+            // Redirect to the retrieved URL
+            wp_redirect($publication_url);
+            exit;
+        }
+    }
+}

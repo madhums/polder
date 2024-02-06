@@ -2,14 +2,14 @@
 // MAIN.SCSS
 // THIS IS THE MAIN SCSS PIPELINE START
 //////////////////////////////////////////////////
- 
-//IMPORT BOOTSTRAP 
-@import "bootstrap-loader"; 
 
+//IMPORT BOOTSTRAP
+@import "bootstrap-loader";
+@import "bootstrap-icons";
 
-// THE THEME STUFF 
-@import "wp_basic_styles";      
-@import "picostrap";  
+// THE THEME STUFF
+@import "wp_basic_styles";
+@import "picostrap";
 @import "woocommerce";
 
 

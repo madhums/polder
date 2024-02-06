@@ -10,7 +10,7 @@ defined( 'ABSPATH' ) || exit;
 
 get_header();
 ?>
-
+ 
 
 <div id="container-content-page" class="container">
     <div class="row">
@@ -18,9 +18,9 @@ get_header();
 
             <h1 class="display-4 fw-bold mb-4"><?php the_title(); ?></h1>
 
-            <?php
+            <?php 
 
-            if ( have_posts() ) :
+            if ( have_posts() ) : 
                 while ( have_posts() ) : the_post();
                     the_content();
                 endwhile;
