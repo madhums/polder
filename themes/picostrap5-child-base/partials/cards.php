@@ -20,6 +20,7 @@ This loop is used in the Archive and in the Home [.php] templates.
 
         <h4 class="mb-2"><a href="<?php the_permalink() ?>" class="text-reset text-decoration-none"><?php the_title() ?></a></h4>
         <p class="card-text"><?php echo get_the_excerpt(); ?></p>
+        <a href="<?php the_permalink() ?>" class="btn btn-outline-primary">Read more</a>
     </div>
   </div>
 
