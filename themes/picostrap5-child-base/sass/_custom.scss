@@ -189,3 +189,16 @@ footer {
 .wp-block-embed__wrapper::before {
     padding: 0 !important;
 }
+
+
+// backdrop
+
+.polder-backdrop {
+    position: absolute;
+    height: 100%;
+    background: #000;
+    opacity: 0.6;
+    width: 100%;
+    top: 0;
+    z-index: -2;
+}
