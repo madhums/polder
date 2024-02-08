@@ -3,16 +3,24 @@
 This loop is used in the Archive and in the Home [.php] templates.
 */
 
+$post_type = get_post_type(get_the_ID());
+
 $is_external_link = false;
 $link_attrs = '';
 $link_icon = '';
-if (get_post_type(get_the_ID()) == 'publication' && get_field('publication_url')) {
+if ($post_type == 'publication' && get_field('publication_url')) {
   $card_link = get_field('publication_url');
   $is_external_link = true;
   $link_attrs = 'target="_blank"';
   $link_icon = '<i class="ms-2 bi bi-box-arrow-up-right"></i>';
 } else {
   $card_link = get_the_permalink();
+}
+
+$tags = get_the_tags();
+
+if ($tags && !is_wp_error($tags)) {
+  $first_tag = $tags[0]->name;
 }
 
 ?>
@@ -26,9 +34,13 @@ if (get_post_type(get_the_ID()) == 'publication' && get_field('publication_url')
       <?php the_post_thumbnail('card_thumb', ['class' => 'w-100 rounded-top']);    ?>
     </a>
     <div class="card-body px-0">
-        <?php if (get_post_type(get_the_ID()) == 'event' ): ?>
-          <div class="text-muted mb-2"><?php the_field('start_date'); ?> <?php the_field('start_time'); ?> - <?php the_field('location'); ?></div>
-        <?php elseif (!get_theme_mod("singlepost_disable_date") && get_post_type(get_the_ID()) != 'lab' ): ?>
+        <?php if ($post_type == 'event' ): ?>
+          <div class="text-muted mb-2">
+
+            <?php the_field('start_date'); ?> <?php the_field('start_time'); ?> - <?php the_field('location'); ?>
+            <span class="badge text-bg-dark ms-2"><?php echo $first_tag; ?></span>
+          </div>
+        <?php elseif (!get_theme_mod("singlepost_disable_date") && $post_type != 'lab' ): ?>
           <small class="text-muted"><?php the_date() ?></small>
         <?php endif; ?>
 
