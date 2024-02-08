@@ -29,7 +29,7 @@
 	<title>Polder</title>
 	<link>http://localhost:8000</link>
 	<description>Unravelling complexity</description>
-	<pubDate>Thu, 08 Feb 2024 09:28:22 +0000</pubDate>
+	<pubDate>Thu, 08 Feb 2024 09:45:31 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://localhost:8000</wp:base_site_url>
@@ -2690,7 +2690,7 @@
 							</item>
 					<item>
 		<title><![CDATA[wp_dummy_content_generator_72.jpg]]></title>
-		<link>http://localhost:8000/news/sit-maiores-eligendi-nam-odit-et-sit-a/wp_dummy_content_generator_72-jpg/</link>
+		<link>http://localhost:8000/?attachment_id=73</link>
 		<pubDate>Sat, 30 Dec 2023 12:53:59 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8000/news/sit-maiores-eligendi-nam-odit-et-sit-a/wp_dummy_content_generator_72-jpg/</guid>
@@ -2727,7 +2727,7 @@
 							</item>
 					<item>
 		<title><![CDATA[wp_dummy_content_generator_74.jpg]]></title>
-		<link>http://localhost:8000/news/rem-numquam-omnis-sint-est-est/wp_dummy_content_generator_74-jpg/</link>
+		<link>http://localhost:8000/?attachment_id=75</link>
 		<pubDate>Sat, 30 Dec 2023 12:53:59 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8000/news/rem-numquam-omnis-sint-est-est/wp_dummy_content_generator_74-jpg/</guid>
@@ -2838,7 +2838,7 @@
 							</item>
 					<item>
 		<title><![CDATA[wp_dummy_content_generator_80.jpg]]></title>
-		<link>http://localhost:8000/news/nam-blanditiis-qui-ut-laborum/wp_dummy_content_generator_80-jpg/</link>
+		<link>http://localhost:8000/?attachment_id=81</link>
 		<pubDate>Sat, 30 Dec 2023 12:54:00 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8000/news/nam-blanditiis-qui-ut-laborum/wp_dummy_content_generator_80-jpg/</guid>
@@ -3763,7 +3763,7 @@
 							</item>
 					<item>
 		<title><![CDATA[wp_dummy_content_generator_114.jpg]]></title>
-		<link>http://localhost:8000/publication/fugit-nemo-iste-commodi-a-odit-rerum/wp_dummy_content_generator_114-jpg/</link>
+		<link>http://localhost:8000/?attachment_id=115</link>
 		<pubDate>Sat, 30 Dec 2023 12:54:22 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8000/publication/fugit-nemo-iste-commodi-a-odit-rerum/wp_dummy_content_generator_114-jpg/</guid>
@@ -3874,7 +3874,7 @@
 							</item>
 					<item>
 		<title><![CDATA[wp_dummy_content_generator_120.jpg]]></title>
-		<link>http://localhost:8000/publication/quae-dolores-ut-sed-ab/wp_dummy_content_generator_120-jpg/</link>
+		<link>http://localhost:8000/?attachment_id=121</link>
 		<pubDate>Sat, 30 Dec 2023 12:54:22 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8000/publication/quae-dolores-ut-sed-ab/wp_dummy_content_generator_120-jpg/</guid>
@@ -3948,7 +3948,7 @@
 							</item>
 					<item>
 		<title><![CDATA[wp_dummy_content_generator_124.jpg]]></title>
-		<link>http://localhost:8000/publication/vel-est-consequatur-at-quis/wp_dummy_content_generator_124-jpg/</link>
+		<link>http://localhost:8000/?attachment_id=125</link>
 		<pubDate>Sat, 30 Dec 2023 12:54:23 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8000/publication/vel-est-consequatur-at-quis/wp_dummy_content_generator_124-jpg/</guid>
@@ -4162,7 +4162,7 @@
 							</item>
 					<item>
 		<title><![CDATA[wp_dummy_content_generator_4521.jpg]]></title>
-		<link>http://localhost:8000/event/tempore-ipsum-dolor-et-voluptatem/wp_dummy_content_generator_4521-jpg/</link>
+		<link>http://localhost:8000/?attachment_id=4522</link>
 		<pubDate>Wed, 17 Jan 2024 09:27:46 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8000/event/tempore-ipsum-dolor-et-voluptatem/wp_dummy_content_generator_4521-jpg/</guid>
@@ -4199,7 +4199,7 @@
 							</item>
 					<item>
 		<title><![CDATA[wp_dummy_content_generator_4523.jpg]]></title>
-		<link>http://localhost:8000/event/corrupti-et-itaque-natus-nihil/wp_dummy_content_generator_4523-jpg/</link>
+		<link>http://localhost:8000/?attachment_id=4524</link>
 		<pubDate>Wed, 17 Jan 2024 09:27:46 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8000/event/corrupti-et-itaque-natus-nihil/wp_dummy_content_generator_4523-jpg/</guid>
@@ -4273,7 +4273,7 @@
 							</item>
 					<item>
 		<title><![CDATA[wp_dummy_content_generator_4527.jpg]]></title>
-		<link>http://localhost:8000/event/et-sit-sapiente-nam-et-et/wp_dummy_content_generator_4527-jpg/</link>
+		<link>http://localhost:8000/?attachment_id=4528</link>
 		<pubDate>Wed, 17 Jan 2024 09:27:47 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8000/event/et-sit-sapiente-nam-et-et/wp_dummy_content_generator_4527-jpg/</guid>
@@ -4310,7 +4310,7 @@
 							</item>
 					<item>
 		<title><![CDATA[wp_dummy_content_generator_4529.jpg]]></title>
-		<link>http://localhost:8000/event/reiciendis-quia-adipisci-rerum/wp_dummy_content_generator_4529-jpg/</link>
+		<link>http://localhost:8000/?attachment_id=4530</link>
 		<pubDate>Wed, 17 Jan 2024 09:27:47 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8000/event/reiciendis-quia-adipisci-rerum/wp_dummy_content_generator_4529-jpg/</guid>
@@ -5229,14 +5229,14 @@ Dolores est cum corporis et ut. Recusandae culpa rerum eos commodi aut dolorem o
 <!-- /wp:spacer -->
 
 <!-- wp:bootstrap/accordion -->
-<div class="accordion" id="bs-acrdn-Z5YqML"><!-- wp:bootstrap/accordion-item {"accordionRootId":"bs-acrdn-Z5YqML","accordionItemTitle":"Lorem ipsum dolar sit amet"} -->
-<div class="accordion-item"><div class="accordion-header" id="bs-acrdn-Z5YqML-item-0"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#bs-acrdn-Z5YqML-item-0-collapse" aria-expanded="false" aria-controls="bs-acrdn-Z5YqML-item-0-collapse"><span>Lorem ipsum dolar sit amet</span></button></div><div data-bs-parent="#bs-acrdn-Z5YqML" id="bs-acrdn-Z5YqML-item-0-collapse" class="accordion-collapse collapse" aria-labelledby="bs-acrdn-Z5YqML-item-0"><div class="accordion-body"><!-- wp:paragraph -->
+<div class="accordion" id="bs-acrdn-2c2DNu"><!-- wp:bootstrap/accordion-item {"accordionRootId":"bs-acrdn-2c2DNu","accordionItemTitle":"Lorem ipsum dolar sit amet"} -->
+<div class="accordion-item"><div class="accordion-header" id="bs-acrdn-2c2DNu-item-0"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#bs-acrdn-2c2DNu-item-0-collapse" aria-expanded="false" aria-controls="bs-acrdn-2c2DNu-item-0-collapse"><span>Lorem ipsum dolar sit amet</span></button></div><div data-bs-parent="#bs-acrdn-2c2DNu" id="bs-acrdn-2c2DNu-item-0-collapse" class="accordion-collapse collapse" aria-labelledby="bs-acrdn-2c2DNu-item-0"><div class="accordion-body"><!-- wp:paragraph -->
 <p>Maxime tempora voluptas aperiam cumque sit consequatur rerum et. Error quis dolor est quo omnis a. Illum eos provident minima sint eligendi deleniti ad. A rem ea sunt distinctio dolorem distinctio.Dolo</p>
 <!-- /wp:paragraph --></div></div></div>
 <!-- /wp:bootstrap/accordion-item -->
 
-<!-- wp:bootstrap/accordion-item {"accordionItemIndex":1,"accordionRootId":"bs-acrdn-Z5YqML","accordionItemTitle":"Maxime tempora voluptas aperiam "} -->
-<div class="accordion-item"><div class="accordion-header" id="bs-acrdn-Z5YqML-item-1"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#bs-acrdn-Z5YqML-item-1-collapse" aria-expanded="false" aria-controls="bs-acrdn-Z5YqML-item-1-collapse"><span>Maxime tempora voluptas aperiam </span></button></div><div data-bs-parent="#bs-acrdn-Z5YqML" id="bs-acrdn-Z5YqML-item-1-collapse" class="accordion-collapse collapse" aria-labelledby="bs-acrdn-Z5YqML-item-1"><div class="accordion-body"><!-- wp:paragraph -->
+<!-- wp:bootstrap/accordion-item {"accordionItemIndex":1,"accordionRootId":"bs-acrdn-2c2DNu","accordionItemTitle":"Maxime tempora voluptas aperiam "} -->
+<div class="accordion-item"><div class="accordion-header" id="bs-acrdn-2c2DNu-item-1"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#bs-acrdn-2c2DNu-item-1-collapse" aria-expanded="false" aria-controls="bs-acrdn-2c2DNu-item-1-collapse"><span>Maxime tempora voluptas aperiam </span></button></div><div data-bs-parent="#bs-acrdn-2c2DNu" id="bs-acrdn-2c2DNu-item-1-collapse" class="accordion-collapse collapse" aria-labelledby="bs-acrdn-2c2DNu-item-1"><div class="accordion-body"><!-- wp:paragraph -->
 <p>cumque sit consequatur rerum et. Error quis dolor est quo omnis a. Illum eos provident minima sint eligendi deleniti ad. A rem ea sunt distinctio dolorem distinctio.Dolo</p>
 <!-- /wp:paragraph --></div></div></div>
 <!-- /wp:bootstrap/accordion-item --></div>
@@ -5282,13 +5282,13 @@ Dolores est cum corporis et ut. Recusandae culpa rerum eos commodi aut dolorem o
 <h2 class="wp-block-heading">Project coordinators</h2>
 <!-- /wp:heading -->
 
-<!-- wp:tsb/team {"cId":"9820d597-0","members":[{"background":{"color":"#0000"},"border":{"radius":"3px"},"shadow":[],"photo":{"id":113,"url":"http://localhost:8000/wp-content/uploads/2023/12/wp_dummy_content_generator_112.jpg","alt":"","title":"wp_dummy_content_generator_112.jpg"},"photoBorder":{"radius":"50%"},"name":"Martin","nameColor":"#333","title":"Founder","titleColor":"#333","separator":{"width":"20%","height":"3px","color":"#777"},"bio":"I am a self-motivated and self-taught professional who likes to solve problems.","bioColor":"#333","social":[{"link":"#","icon":{"class":"fab fa-facebook-f"}},{"link":"#","icon":{"class":"fab fa-twitter"}},{"link":"#","icon":{"class":"fab fa-linkedin-in"}}],"socialIconColors":{"type":"object","default":{"color":"#fff","bg":"#4527a4"}}},{"background":{"color":"#0000"},"border":{"radius":"3px"},"shadow":[],"photo":{"id":85,"url":"http://localhost:8000/wp-content/uploads/2023/12/wp_dummy_content_generator_84.jpg","alt":"","title":"wp_dummy_content_generator_84.jpg"},"photoBorder":{"radius":"50%"},"name":"Mary","nameColor":"#333","title":"Co-Founder","titleColor":"#333","separator":{"width":"20%","height":"3px","color":"#777"},"bio":"I am a self-motivated and self-taught professional who likes to solve problems.","bioColor":"#333","social":[{"link":"#","icon":{"class":"fab fa-facebook-f"}},{"link":"#","icon":{"class":"fab fa-twitter"}},{"link":"#","icon":{"class":"fab fa-linkedin-in"}}],"socialIconColors":{"type":"object","default":{"color":"#fff","bg":"#4527a4"}}},{"background":{"color":"#0000"},"border":{"radius":"3px"},"shadow":[],"photo":{"id":85,"url":"http://localhost:8000/wp-content/uploads/2023/12/wp_dummy_content_generator_84.jpg","alt":"","title":"wp_dummy_content_generator_84.jpg"},"photoBorder":{"radius":"50%"},"name":"John Doe","nameColor":"#333","title":"CEO","titleColor":"#333","separator":{"width":"20%","height":"3px","color":"#777"},"bio":"I am a self-motivated and self-taught professional who likes to solve problems.","bioColor":"#333","social":[{"link":"#","icon":{"class":"fab fa-facebook-f"}},{"link":"#","icon":{"class":"fab fa-twitter"}},{"link":"#","icon":{"class":"fab fa-linkedin-in"}}],"socialIconColors":{"type":"object","default":{"color":"#fff","bg":"#4527a4"}}}],"isSep":false,"isSocial":false} /-->]]></content:encoded>
-		<excerpt:encoded><![CDATA[Maxime tempora voluptas aperiam cumque sit consequatur rerum et. Error quis dolor est quo omnis a. Illum eos provident minima sint eligendi deleniti ad. A rem ea sunt distinctio dolorem distinctio.Dolorum fugit et reiciendis consequatur enim. Qui hic consequatur quia temporibus sunt adipisci. Placeat laboriosam qui quisquam iure voluptatem. Ipsam ab amet ut unde repudiandae placeat autem]]></excerpt:encoded>
+<!-- wp:tsb/team {"cId":"82fa04f1-b","members":[{"background":{"color":"#0000"},"border":{"radius":"3px"},"shadow":[],"photo":{"id":113,"url":"http://localhost:8000/wp-content/uploads/2023/12/wp_dummy_content_generator_112.jpg","alt":"","title":"wp_dummy_content_generator_112.jpg"},"photoBorder":{"radius":"50%"},"name":"Martin","nameColor":"#333","title":"Founder","titleColor":"#333","separator":{"width":"20%","height":"3px","color":"#777"},"bio":"I am a self-motivated and self-taught professional who likes to solve problems.","bioColor":"#333","social":[{"link":"#","icon":{"class":"fab fa-facebook-f"}},{"link":"#","icon":{"class":"fab fa-twitter"}},{"link":"#","icon":{"class":"fab fa-linkedin-in"}}],"socialIconColors":{"type":"object","default":{"color":"#fff","bg":"#4527a4"}}},{"background":{"color":"#0000"},"border":{"radius":"3px"},"shadow":[],"photo":{"id":85,"url":"http://localhost:8000/wp-content/uploads/2023/12/wp_dummy_content_generator_84.jpg","alt":"","title":"wp_dummy_content_generator_84.jpg"},"photoBorder":{"radius":"50%"},"name":"Mary","nameColor":"#333","title":"Co-Founder","titleColor":"#333","separator":{"width":"20%","height":"3px","color":"#777"},"bio":"I am a self-motivated and self-taught professional who likes to solve problems.","bioColor":"#333","social":[{"link":"#","icon":{"class":"fab fa-facebook-f"}},{"link":"#","icon":{"class":"fab fa-twitter"}},{"link":"#","icon":{"class":"fab fa-linkedin-in"}}],"socialIconColors":{"type":"object","default":{"color":"#fff","bg":"#4527a4"}}},{"background":{"color":"#0000"},"border":{"radius":"3px"},"shadow":[],"photo":{"id":85,"url":"http://localhost:8000/wp-content/uploads/2023/12/wp_dummy_content_generator_84.jpg","alt":"","title":"wp_dummy_content_generator_84.jpg"},"photoBorder":{"radius":"50%"},"name":"John Doe","nameColor":"#333","title":"CEO","titleColor":"#333","separator":{"width":"20%","height":"3px","color":"#777"},"bio":"I am a self-motivated and self-taught professional who likes to solve problems.","bioColor":"#333","social":[{"link":"#","icon":{"class":"fab fa-facebook-f"}},{"link":"#","icon":{"class":"fab fa-twitter"}},{"link":"#","icon":{"class":"fab fa-linkedin-in"}}],"socialIconColors":{"type":"object","default":{"color":"#fff","bg":"#4527a4"}}}],"isSep":false,"isSocial":false} /-->]]></content:encoded>
+		<excerpt:encoded><![CDATA[Our project focuses on the interactions among the various water users and uses in the Metropolitan Region of Amsterdam (MRA). The MRA is home to around 2.5 million people living in 32 municipalities and two provinces. As the largest municipality and economic hub with one of the country’s major ports, Amsterdam is a dominant factor regarding how water is used and managed in the MRA. The city is part of the EU’s 100 Cities Mission to achieve being Net Zero, Smart and Circular by 2030. It furthermore aims to become a “Doughnut Economy”, i.e., an economy in which societal needs are met, including those of marginalized communities, while staying within the “Planetary Boundaries”, and to work towards the internationally agreed-upon United Nations Sustainable Development Goals (SDGs). However, it is currently unclear how these goals can be aligned with and contribute to plans and strategies regarding water services safety and quality at regional and national scale. And there is a lack of knowledge on how to adequately intervene to transform the currently unsustainable system and achieve these aspirations without creating tradeoffs across different water-using sectors (e.g., water, food, energy).]]></excerpt:encoded>
 		<wp:post_id>140</wp:post_id>
 		<wp:post_date><![CDATA[2023-12-12 11:33:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-12-12 11:33:36]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-01-17 22:45:38]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-01-17 22:45:38]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-02-08 09:36:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-02-08 09:36:20]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[quia-dolores-quia-quis-est-harum]]></wp:post_name>
@@ -5435,7 +5435,7 @@ Dolores est cum corporis et ut. Recusandae culpa rerum eos commodi aut dolorem o
 							</item>
 					<item>
 		<title><![CDATA[Tempore ipsum dolor et voluptatem.]]></title>
-		<link>http://localhost:8000/event/tempore-ipsum-dolor-et-voluptatem/</link>
+		<link>http://localhost:8000/?post_type=event&#038;p=4521</link>
 		<pubDate>Tue, 19 Sep 2023 04:43:34 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8000/event/tempore-ipsum-dolor-et-voluptatem/</guid>
@@ -5455,12 +5455,12 @@ Dolores est cum corporis et ut. Recusandae culpa rerum eos commodi aut dolorem o
 		<wp:post_id>4521</wp:post_id>
 		<wp:post_date><![CDATA[2023-09-19 04:43:34]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-09-19 04:43:34]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-01-17 12:31:04]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-01-17 12:31:04]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-02-08 09:42:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-02-08 09:42:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[tempore-ipsum-dolor-et-voluptatem]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_name><![CDATA[tempore-ipsum-dolor-et-voluptatem__trashed]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[event]]></wp:post_type>
@@ -5518,10 +5518,22 @@ Dolores est cum corporis et ut. Recusandae culpa rerum eos commodi aut dolorem o
 		<wp:meta_key><![CDATA[_location]]></wp:meta_key>
 		<wp:meta_value><![CDATA[field_65a7c0f1bba80]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1707385327]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[tempore-ipsum-dolor-et-voluptatem]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Corrupti et itaque natus nihil.]]></title>
-		<link>http://localhost:8000/event/corrupti-et-itaque-natus-nihil/</link>
+		<link>http://localhost:8000/?post_type=event&#038;p=4523</link>
 		<pubDate>Sat, 04 Mar 2023 04:19:13 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8000/event/corrupti-et-itaque-natus-nihil/</guid>
@@ -5541,12 +5553,12 @@ Dolores est cum corporis et ut. Recusandae culpa rerum eos commodi aut dolorem o
 		<wp:post_id>4523</wp:post_id>
 		<wp:post_date><![CDATA[2023-03-04 04:19:13]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-03-04 04:19:13]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-01-17 12:36:59]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-01-17 12:36:59]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-02-08 09:42:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-02-08 09:42:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[corrupti-et-itaque-natus-nihil]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_name><![CDATA[corrupti-et-itaque-natus-nihil__trashed]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[event]]></wp:post_type>
@@ -5603,6 +5615,18 @@ Dolores est cum corporis et ut. Recusandae culpa rerum eos commodi aut dolorem o
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_location]]></wp:meta_key>
 		<wp:meta_value><![CDATA[field_65a7c0f1bba80]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1707385327]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[corrupti-et-itaque-natus-nihil]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -5661,7 +5685,7 @@ Dolores est cum corporis et ut. Recusandae culpa rerum eos commodi aut dolorem o
 							</item>
 					<item>
 		<title><![CDATA[Et sit sapiente nam et et.]]></title>
-		<link>http://localhost:8000/event/et-sit-sapiente-nam-et-et/</link>
+		<link>http://localhost:8000/?post_type=event&#038;p=4527</link>
 		<pubDate>Sat, 17 Jun 2023 09:26:33 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8000/event/et-sit-sapiente-nam-et-et/</guid>
@@ -5681,12 +5705,12 @@ Dolores est cum corporis et ut. Recusandae culpa rerum eos commodi aut dolorem o
 		<wp:post_id>4527</wp:post_id>
 		<wp:post_date><![CDATA[2023-06-17 09:26:33]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-06-17 09:26:33]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-01-17 12:48:49]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-01-17 12:48:49]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-02-08 09:42:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-02-08 09:42:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[et-sit-sapiente-nam-et-et]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_name><![CDATA[et-sit-sapiente-nam-et-et__trashed]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[event]]></wp:post_type>
@@ -5744,10 +5768,22 @@ Dolores est cum corporis et ut. Recusandae culpa rerum eos commodi aut dolorem o
 		<wp:meta_key><![CDATA[_location]]></wp:meta_key>
 		<wp:meta_value><![CDATA[field_65a7c0f1bba80]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1707385327]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[et-sit-sapiente-nam-et-et]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Reiciendis quia adipisci rerum.]]></title>
-		<link>http://localhost:8000/event/reiciendis-quia-adipisci-rerum/</link>
+		<link>http://localhost:8000/?post_type=event&#038;p=4529</link>
 		<pubDate>Sat, 08 Apr 2023 07:46:36 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8000/event/reiciendis-quia-adipisci-rerum/</guid>
@@ -5767,12 +5803,12 @@ Dolores est cum corporis et ut. Recusandae culpa rerum eos commodi aut dolorem o
 		<wp:post_id>4529</wp:post_id>
 		<wp:post_date><![CDATA[2023-04-08 07:46:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-04-08 07:46:36]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-01-30 13:44:37]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-01-30 13:44:37]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-02-08 09:42:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-02-08 09:42:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[reiciendis-quia-adipisci-rerum]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_name><![CDATA[reiciendis-quia-adipisci-rerum__trashed]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[event]]></wp:post_type>
@@ -5829,6 +5865,18 @@ Dolores est cum corporis et ut. Recusandae culpa rerum eos commodi aut dolorem o
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[795]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1707385327]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[reiciendis-quia-adipisci-rerum]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -9628,12 +9676,12 @@ Dolores est cum corporis et ut. Recusandae culpa rerum eos commodi aut dolorem o
 <!-- /wp:paragraph --></div>
 <!-- /wp:bootstrap/row-column --></div>
 <!-- /wp:bootstrap/row -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[Maxime tempora voluptas aperiam cumque sit consequatur rerum et. Error quis dolor est quo omnis a. Illum eos.]]></excerpt:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>14</wp:post_id>
 		<wp:post_date><![CDATA[2023-12-29 09:14:40]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-12-29 09:14:40]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-01-19 10:53:35]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-01-19 10:53:35]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-02-08 09:39:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-02-08 09:39:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact-us]]></wp:post_name>
@@ -9784,20 +9832,20 @@ Dolores est cum corporis et ut. Recusandae culpa rerum eos commodi aut dolorem o
 <!-- /wp:spacer -->
 
 <!-- wp:bootstrap/accordion {"accordionStyle":"flush","accordionFirstOpen":true} -->
-<div class="accordion accordion-flush" id="bs-acrdn-pPq1i"><!-- wp:bootstrap/accordion-item {"accordionRootId":"bs-acrdn-pPq1i","accordionOpened":true,"accordionItemTitle":"Challenge-based education"} -->
-<div class="accordion-item"><div class="accordion-header" id="bs-acrdn-pPq1i-item-0"><button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#bs-acrdn-pPq1i-item-0-collapse" aria-expanded="true" aria-controls="bs-acrdn-pPq1i-item-0-collapse"><span>Challenge-based education</span></button></div><div data-bs-parent="#bs-acrdn-pPq1i" id="bs-acrdn-pPq1i-item-0-collapse" class="accordion-collapse collapse show" aria-labelledby="bs-acrdn-pPq1i-item-0"><div class="accordion-body"><!-- wp:paragraph -->
+<div class="accordion accordion-flush" id="bs-acrdn-Z2eT8nQ"><!-- wp:bootstrap/accordion-item {"accordionRootId":"bs-acrdn-Z2eT8nQ","accordionOpened":true,"accordionItemTitle":"Challenge-based education"} -->
+<div class="accordion-item"><div class="accordion-header" id="bs-acrdn-Z2eT8nQ-item-0"><button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#bs-acrdn-Z2eT8nQ-item-0-collapse" aria-expanded="true" aria-controls="bs-acrdn-Z2eT8nQ-item-0-collapse"><span>Challenge-based education</span></button></div><div data-bs-parent="#bs-acrdn-Z2eT8nQ" id="bs-acrdn-Z2eT8nQ-item-0-collapse" class="accordion-collapse collapse show" aria-labelledby="bs-acrdn-Z2eT8nQ-item-0"><div class="accordion-body"><!-- wp:paragraph -->
 <p>A easy point of entry, to unravel to first layers of complexity, can be taken through a project with master students. As a policymaker you can pose your question to a group of students whom will apply complexity theory to shed light on your policy challenge. For more information we encourage you to reach out to the POLDER program manager</p>
 <!-- /wp:paragraph --></div></div></div>
 <!-- /wp:bootstrap/accordion-item -->
 
-<!-- wp:bootstrap/accordion-item {"accordionItemIndex":1,"accordionRootId":"bs-acrdn-pPq1i","accordionItemTitle":"Policy fellowship at the Institute of Advanced Study"} -->
-<div class="accordion-item"><div class="accordion-header" id="bs-acrdn-pPq1i-item-1"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#bs-acrdn-pPq1i-item-1-collapse" aria-expanded="false" aria-controls="bs-acrdn-pPq1i-item-1-collapse"><span>Policy fellowship at the Institute of Advanced Study</span></button></div><div data-bs-parent="#bs-acrdn-pPq1i" id="bs-acrdn-pPq1i-item-1-collapse" class="accordion-collapse collapse" aria-labelledby="bs-acrdn-pPq1i-item-1"><div class="accordion-body"><!-- wp:paragraph -->
+<!-- wp:bootstrap/accordion-item {"accordionItemIndex":1,"accordionRootId":"bs-acrdn-Z2eT8nQ","accordionItemTitle":"Policy fellowship at the Institute of Advanced Study"} -->
+<div class="accordion-item"><div class="accordion-header" id="bs-acrdn-Z2eT8nQ-item-1"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#bs-acrdn-Z2eT8nQ-item-1-collapse" aria-expanded="false" aria-controls="bs-acrdn-Z2eT8nQ-item-1-collapse"><span>Policy fellowship at the Institute of Advanced Study</span></button></div><div data-bs-parent="#bs-acrdn-Z2eT8nQ" id="bs-acrdn-Z2eT8nQ-item-1-collapse" class="accordion-collapse collapse" aria-labelledby="bs-acrdn-Z2eT8nQ-item-1"><div class="accordion-body"><!-- wp:paragraph -->
 <p>At the UvA Institute of Advanced Study we save a couple of seats for policy fellows. In this position you will immerse yourself in the institute and learn about complexity from various academic fields that converge here. We will challenge you to start your fellowship with a concrete quest and you will engage with peers through lectures, seminars and joint initiatives. More information on the fellowship can be found here.</p>
 <!-- /wp:paragraph --></div></div></div>
 <!-- /wp:bootstrap/accordion-item -->
 
-<!-- wp:bootstrap/accordion-item {"accordionItemIndex":2,"accordionRootId":"bs-acrdn-pPq1i","accordionItemTitle":"Complexity clinic / Corporate training complexity Inception trajectory"} -->
-<div class="accordion-item"><div class="accordion-header" id="bs-acrdn-pPq1i-item-2"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#bs-acrdn-pPq1i-item-2-collapse" aria-expanded="false" aria-controls="bs-acrdn-pPq1i-item-2-collapse"><span>Complexity clinic / Corporate training complexity Inception trajectory</span></button></div><div data-bs-parent="#bs-acrdn-pPq1i" id="bs-acrdn-pPq1i-item-2-collapse" class="accordion-collapse collapse" aria-labelledby="bs-acrdn-pPq1i-item-2"><div class="accordion-body"><!-- wp:paragraph -->
+<!-- wp:bootstrap/accordion-item {"accordionItemIndex":2,"accordionRootId":"bs-acrdn-Z2eT8nQ","accordionItemTitle":"Complexity clinic / Corporate training complexity Inception trajectory"} -->
+<div class="accordion-item"><div class="accordion-header" id="bs-acrdn-Z2eT8nQ-item-2"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#bs-acrdn-Z2eT8nQ-item-2-collapse" aria-expanded="false" aria-controls="bs-acrdn-Z2eT8nQ-item-2-collapse"><span>Complexity clinic / Corporate training complexity Inception trajectory</span></button></div><div data-bs-parent="#bs-acrdn-Z2eT8nQ" id="bs-acrdn-Z2eT8nQ-item-2-collapse" class="accordion-collapse collapse" aria-labelledby="bs-acrdn-Z2eT8nQ-item-2"><div class="accordion-body"><!-- wp:paragraph -->
 <p>It can be daunting to start exploring complexity because the field of potential pathways are numerable. An inception trajectory can be a good option to directly work with top scientists and business developers that guide you. We will collaborate on exploring the scope of your challenge and resulting in a comprehensive proposal for unravelling the complex challenge(s) in your context.</p>
 <!-- /wp:paragraph --></div></div></div>
 <!-- /wp:bootstrap/accordion-item --></div>
@@ -9850,14 +9898,14 @@ Dolores est cum corporis et ut. Recusandae culpa rerum eos commodi aut dolorem o
 <!-- /wp:spacer -->
 
 <!-- wp:bootstrap/accordion {"accordionStyle":"flush","accordionFirstOpen":true} -->
-<div class="accordion accordion-flush" id="bs-acrdn-KpqFl"><!-- wp:bootstrap/accordion-item {"accordionRootId":"bs-acrdn-KpqFl","accordionOpened":true,"accordionItemTitle":"Participate in a complexity lab"} -->
-<div class="accordion-item"><div class="accordion-header" id="bs-acrdn-KpqFl-item-0"><button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#bs-acrdn-KpqFl-item-0-collapse" aria-expanded="true" aria-controls="bs-acrdn-KpqFl-item-0-collapse"><span>Participate in a complexity lab</span></button></div><div data-bs-parent="#bs-acrdn-KpqFl" id="bs-acrdn-KpqFl-item-0-collapse" class="accordion-collapse collapse show" aria-labelledby="bs-acrdn-KpqFl-item-0"><div class="accordion-body"><!-- wp:paragraph -->
+<div class="accordion accordion-flush" id="bs-acrdn-Z1EUc3y"><!-- wp:bootstrap/accordion-item {"accordionRootId":"bs-acrdn-Z1EUc3y","accordionOpened":true,"accordionItemTitle":"Participate in a complexity lab"} -->
+<div class="accordion-item"><div class="accordion-header" id="bs-acrdn-Z1EUc3y-item-0"><button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#bs-acrdn-Z1EUc3y-item-0-collapse" aria-expanded="true" aria-controls="bs-acrdn-Z1EUc3y-item-0-collapse"><span>Participate in a complexity lab</span></button></div><div data-bs-parent="#bs-acrdn-Z1EUc3y" id="bs-acrdn-Z1EUc3y-item-0-collapse" class="accordion-collapse collapse show" aria-labelledby="bs-acrdn-Z1EUc3y-item-0"><div class="accordion-body"><!-- wp:paragraph -->
 <p>In order to tackle a complex challenge we bring together scientists and stakeholders into a research lab. During a set period we collaborate and dive into dynamics that are at play in the system. Through the POLDER methodology we work towards a comprehensive understanding of the system and enable the stakeholders to simulate potential policy interventions for their complex issue.</p>
 <!-- /wp:paragraph --></div></div></div>
 <!-- /wp:bootstrap/accordion-item -->
 
-<!-- wp:bootstrap/accordion-item {"accordionItemIndex":1,"accordionRootId":"bs-acrdn-KpqFl","accordionItemTitle":"Open complexity lab"} -->
-<div class="accordion-item"><div class="accordion-header" id="bs-acrdn-KpqFl-item-1"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#bs-acrdn-KpqFl-item-1-collapse" aria-expanded="false" aria-controls="bs-acrdn-KpqFl-item-1-collapse"><span>Open complexity lab</span></button></div><div data-bs-parent="#bs-acrdn-KpqFl" id="bs-acrdn-KpqFl-item-1-collapse" class="accordion-collapse collapse" aria-labelledby="bs-acrdn-KpqFl-item-1"><div class="accordion-body"><!-- wp:paragraph -->
+<!-- wp:bootstrap/accordion-item {"accordionItemIndex":1,"accordionRootId":"bs-acrdn-Z1EUc3y","accordionItemTitle":"Open complexity lab"} -->
+<div class="accordion-item"><div class="accordion-header" id="bs-acrdn-Z1EUc3y-item-1"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#bs-acrdn-Z1EUc3y-item-1-collapse" aria-expanded="false" aria-controls="bs-acrdn-Z1EUc3y-item-1-collapse"><span>Open complexity lab</span></button></div><div data-bs-parent="#bs-acrdn-Z1EUc3y" id="bs-acrdn-Z1EUc3y-item-1-collapse" class="accordion-collapse collapse" aria-labelledby="bs-acrdn-Z1EUc3y-item-1"><div class="accordion-body"><!-- wp:paragraph -->
 <p>Some research labs can be open-ended. These are running labs that are financed, and thus prolonged, by the continuous influx of new partners. The models and simulations from these labs are made available exclusively to the partners that buy in to the lab. This form can also be combined in a hybrid way with the aforementioned ‘normal’ complexity lab.</p>
 <!-- /wp:paragraph -->
 
@@ -9902,8 +9950,8 @@ Dolores est cum corporis et ut. Recusandae culpa rerum eos commodi aut dolorem o
 <!-- /wp:spacer -->
 
 <!-- wp:bootstrap/accordion {"accordionStyle":"flush","accordionFirstOpen":true} -->
-<div class="accordion accordion-flush" id="bs-acrdn-15SEtW"><!-- wp:bootstrap/accordion-item {"accordionRootId":"bs-acrdn-15SEtW","accordionOpened":true,"accordionItemTitle":"Start/Lead a complexity lab"} -->
-<div class="accordion-item"><div class="accordion-header" id="bs-acrdn-15SEtW-item-0"><button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#bs-acrdn-15SEtW-item-0-collapse" aria-expanded="true" aria-controls="bs-acrdn-15SEtW-item-0-collapse"><span>Start/Lead a complexity lab</span></button></div><div data-bs-parent="#bs-acrdn-15SEtW" id="bs-acrdn-15SEtW-item-0-collapse" class="accordion-collapse collapse show" aria-labelledby="bs-acrdn-15SEtW-item-0"><div class="accordion-body"><!-- wp:paragraph -->
+<div class="accordion accordion-flush" id="bs-acrdn-BtrTa"><!-- wp:bootstrap/accordion-item {"accordionRootId":"bs-acrdn-BtrTa","accordionOpened":true,"accordionItemTitle":"Start/Lead a complexity lab"} -->
+<div class="accordion-item"><div class="accordion-header" id="bs-acrdn-BtrTa-item-0"><button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#bs-acrdn-BtrTa-item-0-collapse" aria-expanded="true" aria-controls="bs-acrdn-BtrTa-item-0-collapse"><span>Start/Lead a complexity lab</span></button></div><div data-bs-parent="#bs-acrdn-BtrTa" id="bs-acrdn-BtrTa-item-0-collapse" class="accordion-collapse collapse show" aria-labelledby="bs-acrdn-BtrTa-item-0"><div class="accordion-body"><!-- wp:paragraph -->
 <p>We start the lab from your concrete problem and work together to form a broader consortium of stakeholders. The research lab will depend on your determination to unravel your complex policy question. However, we will closely collaborate and face this challenge as a team.</p>
 <!-- /wp:paragraph --></div></div></div>
 <!-- /wp:bootstrap/accordion-item --></div>
@@ -9972,12 +10020,12 @@ Dolores est cum corporis et ut. Recusandae culpa rerum eos commodi aut dolorem o
 <!-- /wp:bootstrap/row-column --></div>
 <!-- /wp:bootstrap/row --></div>
 <!-- /wp:group -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[Nostrum impedit excepturi dicta veniam. Et fuga harum est labore esse minima quam. Itaque aspernatur incidunt dolores qui in temporibus. Cupiditate sequi ut doloribus ad nisi molestias.]]></excerpt:encoded>
+		<excerpt:encoded><![CDATA[Our mission is to create a collaborative space where stakeholders and researchers from various academic fields jointly gain deep and encompassing insights into policy making, addressing urgent societal challenges.]]></excerpt:encoded>
 		<wp:post_id>16</wp:post_id>
 		<wp:post_date><![CDATA[2023-12-29 09:14:52]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-12-29 09:14:52]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-02-06 13:29:19]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-02-06 13:29:19]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-02-08 09:41:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-02-08 09:41:09]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[collaborate]]></wp:post_name>
@@ -10134,7 +10182,7 @@ Modi sapiente qui non. Sit libero consectetur commodi et. Officia corporis delen
 							</item>
 					<item>
 		<title><![CDATA[Sit maiores eligendi nam odit et sit a.]]></title>
-		<link>http://localhost:8000/news/sit-maiores-eligendi-nam-odit-et-sit-a/</link>
+		<link>http://localhost:8000/?post_type=news&#038;p=72</link>
 		<pubDate>Tue, 31 Oct 2023 22:18:57 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8000/news/sit-maiores-eligendi-nam-odit-et-sit-a/</guid>
@@ -10148,12 +10196,12 @@ Officiis dignissimos aut suscipit quam repellendus hic possimus. Itaque qui nobi
 		<wp:post_id>72</wp:post_id>
 		<wp:post_date><![CDATA[2023-10-31 22:18:57]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-10-31 22:18:57]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-10-31 22:18:57]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-10-31 22:18:57]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-02-08 09:41:53]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-02-08 09:41:53]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[sit-maiores-eligendi-nam-odit-et-sit-a]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_name><![CDATA[sit-maiores-eligendi-nam-odit-et-sit-a__trashed]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[news]]></wp:post_type>
@@ -10167,10 +10215,22 @@ Officiis dignissimos aut suscipit quam repellendus hic possimus. Itaque qui nobi
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[73]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1707385313]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[sit-maiores-eligendi-nam-odit-et-sit-a]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Rem numquam omnis sint est est.]]></title>
-		<link>http://localhost:8000/news/rem-numquam-omnis-sint-est-est/</link>
+		<link>http://localhost:8000/?post_type=news&#038;p=74</link>
 		<pubDate>Fri, 10 Nov 2023 21:54:46 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8000/news/rem-numquam-omnis-sint-est-est/</guid>
@@ -10184,12 +10244,12 @@ Ullam quibusdam unde ullam nisi ut odio voluptate. Quos veritatis ut quo veritat
 		<wp:post_id>74</wp:post_id>
 		<wp:post_date><![CDATA[2023-11-10 21:54:46]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-11-10 21:54:46]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-11-10 21:54:46]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-11-10 21:54:46]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-02-08 09:41:53]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-02-08 09:41:53]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[rem-numquam-omnis-sint-est-est]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_name><![CDATA[rem-numquam-omnis-sint-est-est__trashed]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[news]]></wp:post_type>
@@ -10202,6 +10262,18 @@ Ullam quibusdam unde ullam nisi ut odio voluptate. Quos veritatis ut quo veritat
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[75]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1707385313]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[rem-numquam-omnis-sint-est-est]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -10302,7 +10374,7 @@ Aut velit error molestiae voluptas saepe ipsam expedita. Deserunt error rerum ex
 							</item>
 					<item>
 		<title><![CDATA[Nam blanditiis qui ut laborum.]]></title>
-		<link>http://localhost:8000/news/nam-blanditiis-qui-ut-laborum/</link>
+		<link>http://localhost:8000/?post_type=news&#038;p=80</link>
 		<pubDate>Sat, 11 Nov 2023 09:41:13 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8000/news/nam-blanditiis-qui-ut-laborum/</guid>
@@ -10316,12 +10388,12 @@ Aperiam id praesentium harum eligendi. Quas reiciendis quo sit fugiat quia non a
 		<wp:post_id>80</wp:post_id>
 		<wp:post_date><![CDATA[2023-11-11 09:41:13]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-11-11 09:41:13]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-11-11 09:41:13]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-11-11 09:41:13]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-02-08 09:41:53]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-02-08 09:41:53]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[nam-blanditiis-qui-ut-laborum]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_name><![CDATA[nam-blanditiis-qui-ut-laborum__trashed]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[news]]></wp:post_type>
@@ -10334,6 +10406,18 @@ Aperiam id praesentium harum eligendi. Quas reiciendis quo sit fugiat quia non a
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[81]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1707385313]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[nam-blanditiis-qui-ut-laborum]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -10769,12 +10853,12 @@ Ab voluptate officiis perferendis perferendis eligendi quis. Maiores sequi sunt 
 		<guid isPermaLink="false">http://localhost:8000/?page_id=20</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[Accusantium quam porro et. Id fugit quo tempore optio beatae aut odit natus. Occaecati quibusdam id eveniet non consequatur repudiandae corrupti. Dict]]></excerpt:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>20</wp:post_id>
 		<wp:post_date><![CDATA[2023-12-29 09:15:21]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-12-29 09:15:21]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-01-18 11:10:17]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-01-18 11:10:17]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-02-08 09:44:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-02-08 09:44:42]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[news]]></wp:post_name>
@@ -10801,12 +10885,12 @@ Ab voluptate officiis perferendis perferendis eligendi quis. Maiores sequi sunt 
 		<guid isPermaLink="false">http://localhost:8000/?page_id=22</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[Nostrum impedit excepturi dicta veniam. Et fuga harum est labore esse minima quam. Itaque aspernatur ]]></excerpt:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>22</wp:post_id>
 		<wp:post_date><![CDATA[2023-12-29 09:15:30]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-12-29 09:15:30]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-01-17 14:24:54]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-01-17 14:24:54]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-02-08 09:44:25]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-02-08 09:44:25]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog]]></wp:post_name>
@@ -10835,7 +10919,7 @@ Ab voluptate officiis perferendis perferendis eligendi quis. Maiores sequi sunt 
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"left","fontSize":"medium"} -->
-<p class="has-text-align-left has-medium-font-size">Nostrum impedit excepturi dicta veniam. Et fuga harum est labore esse minima quam. Itaque aspernatur incidunt dolores qui in temporibus. Cupiditate sequi ut doloribus ad nisi molestias.</p>
+<p class="has-text-align-left has-medium-font-size">Our mission is to create a collaborative space where stakeholders and researchers from various academic fields jointly gain deep and encompassing insights into policy making, addressing urgent societal challenges.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"left"},"bsClasses":"mt-4 mb-3","bsAlignment":{"":false},"bsFlexAlignSelf":{"":""}} -->
@@ -10879,8 +10963,8 @@ Ab voluptate officiis perferendis perferendis eligendi quis. Maiores sequi sunt 
 		<wp:post_id>24</wp:post_id>
 		<wp:post_date><![CDATA[2023-12-29 09:15:40]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-12-29 09:15:40]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-01-30 12:03:18]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-01-30 12:03:18]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-02-08 09:40:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-02-08 09:40:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -22315,33 +22399,27 @@ Qui tempora fugit at expedita a sequi. Nam qui cumque minus accusamus animi quia
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Fugit nemo iste commodi a odit rerum.]]></title>
-		<link>http://localhost:8000/publication/fugit-nemo-iste-commodi-a-odit-rerum/</link>
-		<pubDate>Fri, 03 Nov 2023 16:41:49 +0000</pubDate>
+		<title><![CDATA[Quos ea eaque eveniet et.]]></title>
+		<link>http://localhost:8000/?post_type=publication&#038;p=108</link>
+		<pubDate>Sun, 28 May 2023 02:23:37 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8000/publication/fugit-nemo-iste-commodi-a-odit-rerum/</guid>
+		<guid isPermaLink="false">http://localhost:8000/publication/quos-ea-eaque-eveniet-et/</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>Rerum quisquam iusto architecto ipsam qui eveniet illum quae. Tempora doloribus et numquam itaque ullam. Et dolor voluptatibus provident quidem est voluptatibus velit. Eaque qui qui non molestiae deserunt minus quos.</p>
-<!-- /wp:paragraph -->
+		<content:encoded><![CDATA[Optio est nisi placeat quisquam corrupti odio nostrum. Perspiciatis ea enim odit hic. Aspernatur enim aut laudantium nobis sed. Nulla beatae et sit molestiae temporibus omnis possimus voluptas.
 
-<!-- wp:paragraph -->
-<p>Repellendus nihil quibusdam ut voluptatem. Voluptatem et optio suscipit. Libero fuga quis quaerat ut repellat nihil. Quia nobis nemo a.</p>
-<!-- /wp:paragraph -->
+Ut molestias sunt beatae aut cumque dignissimos aut. Voluptatum et non explicabo fuga praesentium porro nihil. Consequatur consequuntur vel aut. Maiores expedita ut ab excepturi consequuntur quo repudiandae.
 
-<!-- wp:paragraph -->
-<p>Molestiae et quia recusandae. Odio non nam dolores ut quibusdam quo quia. Ab deleniti sed molestias culpa enim.Id officia culpa doloremque cum laborum repellendus earum reiciendis. Itaque quasi fugit laudantium. Exercitationem quis tempore doloribus nesciunt voluptatum laborum. Eveniet autem placeat sapiente iusto consequatur. Vero illo ratione facilis harum assumenda. Id ea optio laudantium illo et et. Quae blanditiis similique qui. Nihil voluptates dolores nesciunt cum. Iusto expedita harum dolor repellat. Et numquam quasi nostrum. Aliquam illo sunt et ipsam qui cum. Tempore repellendus consectetur modi quisquam optio explicabo dicta eos. Qui eveniet odit vel excepturi in beatae repudiandae. Reprehenderit et numquam voluptatem aut voluptas harum voluptatem.</p>
-<!-- /wp:paragraph -->]]></content:encoded>
+Voluptatem autem id quo dolorum non quos. Eum voluptates aut cumque hic voluptatibus voluptate assumenda enim. Qui mollitia laudantium maxime id. Hic omnis dicta corporis minima ipsam. Animi similique optio consequatur nesciunt aut voluptas.Totam sit sapiente iste fuga dolores voluptates accusamus consequatur. Nam nihil non illo et tempore ut. Quia nostrum quis ad earum veniam. Temporibus et consequatur aut minus vero recusandae aut. Fugiat et necessitatibus omnis sed. Ut soluta enim aut consectetur est. Recusandae id est in explicabo mollitia excepturi corrupti sint. In laboriosam et et. Sed harum amet expedita repellendus doloribus tempora quia. Ea dolorum sit eligendi. Odio dolorum dicta dolorem officiis maiores. Nihil et quo numquam repellendus. Consequuntur soluta odit esse fugit ut qui. Necessitatibus qui tempore et sint ducimus occaecati et enim. Voluptate quasi ut odio ad occaecati. Temporibus rerum voluptas id.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>114</wp:post_id>
-		<wp:post_date><![CDATA[2023-11-03 16:41:49]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2023-11-03 16:41:49]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-02-06 12:23:02]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-02-06 12:23:02]]></wp:post_modified_gmt>
+		<wp:post_id>108</wp:post_id>
+		<wp:post_date><![CDATA[2023-05-28 02:23:37]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-05-28 02:23:37]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-02-08 09:26:30]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-02-08 09:26:30]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[fugit-nemo-iste-commodi-a-odit-rerum]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_name><![CDATA[quos-ea-eaque-eveniet-et__trashed]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[publication]]></wp:post_type>
@@ -22353,43 +22431,43 @@ Qui tempora fugit at expedita a sequi. Nam qui cumque minus accusamus animi quia
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[809]]></wp:meta_value>
+		<wp:meta_value><![CDATA[109]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[publication_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://github.com/madhums/polder]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1707384390]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_publication_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_65c2242fb4b16]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[quos-ea-eaque-eveniet-et]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Quae dolores ut sed ab.]]></title>
-		<link>http://localhost:8000/publication/quae-dolores-ut-sed-ab/</link>
-		<pubDate>Fri, 22 Sep 2023 07:53:43 +0000</pubDate>
+		<title><![CDATA[Ipsa qui aut nihil commodi et.]]></title>
+		<link>http://localhost:8000/?post_type=publication&#038;p=110</link>
+		<pubDate>Sat, 27 May 2023 19:51:00 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8000/publication/quae-dolores-ut-sed-ab/</guid>
+		<guid isPermaLink="false">http://localhost:8000/publication/ipsa-qui-aut-nihil-commodi-et/</guid>
 		<description></description>
-		<content:encoded><![CDATA[Iste debitis quia praesentium ipsa officiis voluptatum ratione. Et et ut quasi sed officiis eveniet quisquam. Reiciendis itaque quia quae est quia. Non quia voluptatibus quis. Sit hic id aliquam doloremque dolore.
+		<content:encoded><![CDATA[Vel quibusdam accusamus et voluptate. Voluptas dolores atque non ullam et deleniti. Deserunt ducimus aut modi omnis laborum et.
 
-Rerum excepturi qui totam cupiditate hic laborum rem. Perspiciatis laudantium porro aliquam accusantium et voluptatem. Qui iste quia libero error non et blanditiis ratione.
+Vel similique veniam hic iusto illo. Totam consectetur numquam quod maiores. Consequuntur excepturi recusandae non enim aut aut ut. Ipsa neque id ut voluptas quas et eveniet.
 
-Veniam minima fugiat et hic voluptatem. Enim aut omnis officia culpa commodi amet nulla esse. Eveniet dolorem dolores sunt porro aspernatur voluptates. Corporis qui nam aut itaque saepe molestiae magnam.Voluptatem consectetur maiores sed. Voluptas est quisquam et consequatur dolor. Qui eaque vel ad molestias ut repudiandae necessitatibus. Perferendis rem rerum atque similique veniam animi ipsam. Et voluptates dignissimos incidunt aut velit unde consequatur. Id optio ut hic enim. Dignissimos vel dolore et quidem. Aut qui consectetur ea quia nisi nesciunt non. Ut sed dignissimos sint dolores voluptas et molestias voluptatibus. Sapiente et animi quam voluptatibus enim laudantium. Vel cum nesciunt praesentium odio sed quibusdam. Voluptatem officia dolore deleniti totam dolorem. Rerum quisquam quo nam magni. Natus non quisquam sapiente natus labore et magnam dolor.]]></content:encoded>
+Error quos et beatae quidem id inventore. Quasi est suscipit veritatis voluptas voluptatem consequatur nihil. Quaerat aliquid quidem deserunt maxime. Voluptas ut culpa enim.Blanditiis optio accusantium magnam quas repellendus necessitatibus. Hic placeat aliquid iure fugiat. Iure culpa nisi voluptatem. Illum quibusdam omnis incidunt mollitia ut autem. Cum rerum omnis eaque eaque dolorem placeat voluptate. Asperiores rerum possimus accusamus reiciendis. Repellat molestias nobis tenetur porro. Est et sed exercitationem sapiente aut id. Consequatur officiis explicabo deleniti asperiores architecto est. Voluptas atque consectetur voluptatem aut ut sunt dolor quae. Sit dolores voluptatem quis quia id vel totam. Qui qui recusandae saepe esse.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>120</wp:post_id>
-		<wp:post_date><![CDATA[2023-09-22 07:53:43]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2023-09-22 07:53:43]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-09-22 07:53:43]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-09-22 07:53:43]]></wp:post_modified_gmt>
+		<wp:post_id>110</wp:post_id>
+		<wp:post_date><![CDATA[2023-05-27 19:51:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-05-27 19:51:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-02-08 09:26:30]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-02-08 09:26:30]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[quae-dolores-ut-sed-ab]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_name><![CDATA[ipsa-qui-aut-nihil-commodi-et__trashed]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[publication]]></wp:post_type>
@@ -22401,31 +22479,43 @@ Veniam minima fugiat et hic voluptatem. Enim aut omnis officia culpa commodi ame
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[121]]></wp:meta_value>
+		<wp:meta_value><![CDATA[111]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1707384390]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[ipsa-qui-aut-nihil-commodi-et]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Vel est consequatur at quis.]]></title>
-		<link>http://localhost:8000/publication/vel-est-consequatur-at-quis/</link>
-		<pubDate>Tue, 22 Aug 2023 17:30:52 +0000</pubDate>
+		<title><![CDATA[In eos sed fugit ipsa corrupti.]]></title>
+		<link>http://localhost:8000/?post_type=publication&#038;p=112</link>
+		<pubDate>Tue, 30 May 2023 06:42:37 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8000/publication/vel-est-consequatur-at-quis/</guid>
+		<guid isPermaLink="false">http://localhost:8000/publication/in-eos-sed-fugit-ipsa-corrupti/</guid>
 		<description></description>
-		<content:encoded><![CDATA[Voluptas architecto non expedita. Rerum adipisci non distinctio quis asperiores. Magni optio numquam quia nam quia. Molestiae excepturi at autem unde eum laborum vel.
+		<content:encoded><![CDATA[Et necessitatibus reiciendis expedita consequatur quod porro dolorum fugiat. Mollitia doloremque eos laudantium dolorum eius eligendi. Cum tenetur assumenda voluptatibus doloribus in molestias.
 
-Officia nulla aliquid placeat omnis quod quaerat fuga quas. Ut autem impedit temporibus assumenda. Commodi et dicta ipsa dolores.
+Atque maxime earum fugit. Quia incidunt tenetur natus earum. Ducimus reiciendis error consequuntur quaerat.
 
-Minus enim velit ullam autem. Tempora dolor aut expedita nesciunt et optio debitis. Neque distinctio ut quos officia necessitatibus sunt doloribus.Aut debitis voluptatibus veniam culpa. Maxime non adipisci dolores nostrum consequuntur. Cum nostrum et animi sunt dolorem ut. Vel nihil debitis neque qui soluta. Iure ea laboriosam dolor est vero possimus expedita. Minus et doloribus nam aut temporibus. Ut qui nulla non libero. Voluptatem est excepturi et tempora esse omnis. Dolorem nihil libero vel debitis eligendi ratione. Quo suscipit dignissimos ut et. Eos quibusdam inventore beatae reprehenderit aut eius impedit. Numquam mollitia excepturi et quia. Consequuntur animi quae minima ea. Dignissimos beatae omnis delectus libero accusantium quo. Optio tenetur quibusdam magni in dolor non. Delectus et ut dolorem et alias.]]></content:encoded>
+Culpa voluptas quas molestias minus quo. Suscipit in pariatur ut alias omnis sit architecto libero. Aspernatur et doloremque et iusto ducimus possimus totam ullam.Dignissimos maxime nemo odio voluptatem asperiores nihil tenetur. Qui dignissimos et eos fugiat neque autem. Aliquam quidem sequi quidem magni eum debitis numquam. Animi consequatur impedit reprehenderit minus in quae maxime id. Natus nihil animi ducimus alias nobis aut possimus. Illum id quasi at eligendi veniam qui neque. Molestias et laborum et doloremque quia. Qui animi cum ut quibusdam et ut. Sapiente harum ea ut ut quae. Quam optio quidem maxime porro. Voluptatum aut ut esse tenetur. Quae libero doloremque dolor vel quos fuga quos fuga. Est sapiente ipsa est nobis et ipsa quis ut. Non et non molestiae quasi doloribus quae omnis dignissimos.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>124</wp:post_id>
-		<wp:post_date><![CDATA[2023-08-22 17:30:52]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2023-08-22 17:30:52]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-08-22 17:30:52]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-08-22 17:30:52]]></wp:post_modified_gmt>
+		<wp:post_id>112</wp:post_id>
+		<wp:post_date><![CDATA[2023-05-30 06:42:37]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-05-30 06:42:37]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-02-08 09:26:30]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-02-08 09:26:30]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[vel-est-consequatur-at-quis]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_name><![CDATA[in-eos-sed-fugit-ipsa-corrupti__trashed]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[publication]]></wp:post_type>
@@ -22437,7 +22527,19 @@ Minus enim velit ullam autem. Tempora dolor aut expedita nesciunt et optio debit
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[125]]></wp:meta_value>
+		<wp:meta_value><![CDATA[113]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1707384390]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[in-eos-sed-fugit-ipsa-corrupti]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -23932,26 +24034,32 @@ Voluptatem veritatis ut aut consequatur. Dolor beatae ut atque.Nesciunt sed quib
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Quos ea eaque eveniet et.]]></title>
-		<link>http://localhost:8000/?post_type=publication&#038;p=108</link>
-		<pubDate>Sun, 28 May 2023 02:23:37 +0000</pubDate>
+		<title><![CDATA[Fugit nemo iste commodi a odit rerum.]]></title>
+		<link>http://localhost:8000/?post_type=publication&#038;p=114</link>
+		<pubDate>Fri, 03 Nov 2023 16:41:49 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8000/publication/quos-ea-eaque-eveniet-et/</guid>
+		<guid isPermaLink="false">http://localhost:8000/publication/fugit-nemo-iste-commodi-a-odit-rerum/</guid>
 		<description></description>
-		<content:encoded><![CDATA[Optio est nisi placeat quisquam corrupti odio nostrum. Perspiciatis ea enim odit hic. Aspernatur enim aut laudantium nobis sed. Nulla beatae et sit molestiae temporibus omnis possimus voluptas.
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Rerum quisquam iusto architecto ipsam qui eveniet illum quae. Tempora doloribus et numquam itaque ullam. Et dolor voluptatibus provident quidem est voluptatibus velit. Eaque qui qui non molestiae deserunt minus quos.</p>
+<!-- /wp:paragraph -->
 
-Ut molestias sunt beatae aut cumque dignissimos aut. Voluptatum et non explicabo fuga praesentium porro nihil. Consequatur consequuntur vel aut. Maiores expedita ut ab excepturi consequuntur quo repudiandae.
+<!-- wp:paragraph -->
+<p>Repellendus nihil quibusdam ut voluptatem. Voluptatem et optio suscipit. Libero fuga quis quaerat ut repellat nihil. Quia nobis nemo a.</p>
+<!-- /wp:paragraph -->
 
-Voluptatem autem id quo dolorum non quos. Eum voluptates aut cumque hic voluptatibus voluptate assumenda enim. Qui mollitia laudantium maxime id. Hic omnis dicta corporis minima ipsam. Animi similique optio consequatur nesciunt aut voluptas.Totam sit sapiente iste fuga dolores voluptates accusamus consequatur. Nam nihil non illo et tempore ut. Quia nostrum quis ad earum veniam. Temporibus et consequatur aut minus vero recusandae aut. Fugiat et necessitatibus omnis sed. Ut soluta enim aut consectetur est. Recusandae id est in explicabo mollitia excepturi corrupti sint. In laboriosam et et. Sed harum amet expedita repellendus doloribus tempora quia. Ea dolorum sit eligendi. Odio dolorum dicta dolorem officiis maiores. Nihil et quo numquam repellendus. Consequuntur soluta odit esse fugit ut qui. Necessitatibus qui tempore et sint ducimus occaecati et enim. Voluptate quasi ut odio ad occaecati. Temporibus rerum voluptas id.]]></content:encoded>
+<!-- wp:paragraph -->
+<p>Molestiae et quia recusandae. Odio non nam dolores ut quibusdam quo quia. Ab deleniti sed molestias culpa enim.Id officia culpa doloremque cum laborum repellendus earum reiciendis. Itaque quasi fugit laudantium. Exercitationem quis tempore doloribus nesciunt voluptatum laborum. Eveniet autem placeat sapiente iusto consequatur. Vero illo ratione facilis harum assumenda. Id ea optio laudantium illo et et. Quae blanditiis similique qui. Nihil voluptates dolores nesciunt cum. Iusto expedita harum dolor repellat. Et numquam quasi nostrum. Aliquam illo sunt et ipsam qui cum. Tempore repellendus consectetur modi quisquam optio explicabo dicta eos. Qui eveniet odit vel excepturi in beatae repudiandae. Reprehenderit et numquam voluptatem aut voluptas harum voluptatem.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>108</wp:post_id>
-		<wp:post_date><![CDATA[2023-05-28 02:23:37]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2023-05-28 02:23:37]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-02-08 09:26:30]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-02-08 09:26:30]]></wp:post_modified_gmt>
+		<wp:post_id>114</wp:post_id>
+		<wp:post_date><![CDATA[2023-11-03 16:41:49]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-11-03 16:41:49]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-02-08 09:42:15]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-02-08 09:42:15]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[quos-ea-eaque-eveniet-et__trashed]]></wp:post_name>
+		<wp:post_name><![CDATA[fugit-nemo-iste-commodi-a-odit-rerum__trashed]]></wp:post_name>
 		<wp:status><![CDATA[trash]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
@@ -23964,7 +24072,19 @@ Voluptatem autem id quo dolorum non quos. Eum voluptates aut cumque hic voluptat
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[109]]></wp:meta_value>
+		<wp:meta_value><![CDATA[809]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[publication_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://github.com/madhums/polder]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_publication_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_65c2242fb4b16]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
@@ -23972,107 +24092,11 @@ Voluptatem autem id quo dolorum non quos. Eum voluptates aut cumque hic voluptat
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1707384390]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1707385335]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[quos-ea-eaque-eveniet-et]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Ipsa qui aut nihil commodi et.]]></title>
-		<link>http://localhost:8000/?post_type=publication&#038;p=110</link>
-		<pubDate>Sat, 27 May 2023 19:51:00 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8000/publication/ipsa-qui-aut-nihil-commodi-et/</guid>
-		<description></description>
-		<content:encoded><![CDATA[Vel quibusdam accusamus et voluptate. Voluptas dolores atque non ullam et deleniti. Deserunt ducimus aut modi omnis laborum et.
-
-Vel similique veniam hic iusto illo. Totam consectetur numquam quod maiores. Consequuntur excepturi recusandae non enim aut aut ut. Ipsa neque id ut voluptas quas et eveniet.
-
-Error quos et beatae quidem id inventore. Quasi est suscipit veritatis voluptas voluptatem consequatur nihil. Quaerat aliquid quidem deserunt maxime. Voluptas ut culpa enim.Blanditiis optio accusantium magnam quas repellendus necessitatibus. Hic placeat aliquid iure fugiat. Iure culpa nisi voluptatem. Illum quibusdam omnis incidunt mollitia ut autem. Cum rerum omnis eaque eaque dolorem placeat voluptate. Asperiores rerum possimus accusamus reiciendis. Repellat molestias nobis tenetur porro. Est et sed exercitationem sapiente aut id. Consequatur officiis explicabo deleniti asperiores architecto est. Voluptas atque consectetur voluptatem aut ut sunt dolor quae. Sit dolores voluptatem quis quia id vel totam. Qui qui recusandae saepe esse.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>110</wp:post_id>
-		<wp:post_date><![CDATA[2023-05-27 19:51:00]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2023-05-27 19:51:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-02-08 09:26:30]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-02-08 09:26:30]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[ipsa-qui-aut-nihil-commodi-et__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[publication]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[wp_dummy_content_generator_post]]></wp:meta_key>
-		<wp:meta_value><![CDATA[true]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[111]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1707384390]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[ipsa-qui-aut-nihil-commodi-et]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[In eos sed fugit ipsa corrupti.]]></title>
-		<link>http://localhost:8000/?post_type=publication&#038;p=112</link>
-		<pubDate>Tue, 30 May 2023 06:42:37 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8000/publication/in-eos-sed-fugit-ipsa-corrupti/</guid>
-		<description></description>
-		<content:encoded><![CDATA[Et necessitatibus reiciendis expedita consequatur quod porro dolorum fugiat. Mollitia doloremque eos laudantium dolorum eius eligendi. Cum tenetur assumenda voluptatibus doloribus in molestias.
-
-Atque maxime earum fugit. Quia incidunt tenetur natus earum. Ducimus reiciendis error consequuntur quaerat.
-
-Culpa voluptas quas molestias minus quo. Suscipit in pariatur ut alias omnis sit architecto libero. Aspernatur et doloremque et iusto ducimus possimus totam ullam.Dignissimos maxime nemo odio voluptatem asperiores nihil tenetur. Qui dignissimos et eos fugiat neque autem. Aliquam quidem sequi quidem magni eum debitis numquam. Animi consequatur impedit reprehenderit minus in quae maxime id. Natus nihil animi ducimus alias nobis aut possimus. Illum id quasi at eligendi veniam qui neque. Molestias et laborum et doloremque quia. Qui animi cum ut quibusdam et ut. Sapiente harum ea ut ut quae. Quam optio quidem maxime porro. Voluptatum aut ut esse tenetur. Quae libero doloremque dolor vel quos fuga quos fuga. Est sapiente ipsa est nobis et ipsa quis ut. Non et non molestiae quasi doloribus quae omnis dignissimos.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>112</wp:post_id>
-		<wp:post_date><![CDATA[2023-05-30 06:42:37]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2023-05-30 06:42:37]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-02-08 09:26:30]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-02-08 09:26:30]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[in-eos-sed-fugit-ipsa-corrupti__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[publication]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[wp_dummy_content_generator_post]]></wp:meta_key>
-		<wp:meta_value><![CDATA[true]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[113]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1707384390]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[in-eos-sed-fugit-ipsa-corrupti]]></wp:meta_value>
+		<wp:meta_value><![CDATA[fugit-nemo-iste-commodi-a-odit-rerum]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -24172,6 +24196,54 @@ Magni voluptatum eum et autem. Qui delectus voluptas eos cum voluptatum ipsum.Ex
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[Quae dolores ut sed ab.]]></title>
+		<link>http://localhost:8000/?post_type=publication&#038;p=120</link>
+		<pubDate>Fri, 22 Sep 2023 07:53:43 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8000/publication/quae-dolores-ut-sed-ab/</guid>
+		<description></description>
+		<content:encoded><![CDATA[Iste debitis quia praesentium ipsa officiis voluptatum ratione. Et et ut quasi sed officiis eveniet quisquam. Reiciendis itaque quia quae est quia. Non quia voluptatibus quis. Sit hic id aliquam doloremque dolore.
+
+Rerum excepturi qui totam cupiditate hic laborum rem. Perspiciatis laudantium porro aliquam accusantium et voluptatem. Qui iste quia libero error non et blanditiis ratione.
+
+Veniam minima fugiat et hic voluptatem. Enim aut omnis officia culpa commodi amet nulla esse. Eveniet dolorem dolores sunt porro aspernatur voluptates. Corporis qui nam aut itaque saepe molestiae magnam.Voluptatem consectetur maiores sed. Voluptas est quisquam et consequatur dolor. Qui eaque vel ad molestias ut repudiandae necessitatibus. Perferendis rem rerum atque similique veniam animi ipsam. Et voluptates dignissimos incidunt aut velit unde consequatur. Id optio ut hic enim. Dignissimos vel dolore et quidem. Aut qui consectetur ea quia nisi nesciunt non. Ut sed dignissimos sint dolores voluptas et molestias voluptatibus. Sapiente et animi quam voluptatibus enim laudantium. Vel cum nesciunt praesentium odio sed quibusdam. Voluptatem officia dolore deleniti totam dolorem. Rerum quisquam quo nam magni. Natus non quisquam sapiente natus labore et magnam dolor.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>120</wp:post_id>
+		<wp:post_date><![CDATA[2023-09-22 07:53:43]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-09-22 07:53:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-02-08 09:42:15]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-02-08 09:42:15]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[quae-dolores-ut-sed-ab__trashed]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[publication]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[wp_dummy_content_generator_post]]></wp:meta_key>
+		<wp:meta_value><![CDATA[true]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[121]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1707385335]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[quae-dolores-ut-sed-ab]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[Aliquid est perferendis commodi.]]></title>
 		<link>http://localhost:8000/?post_type=publication&#038;p=122</link>
 		<pubDate>Sun, 02 Jul 2023 20:12:33 +0000</pubDate>
@@ -24217,6 +24289,54 @@ Modi maiores quasi error. Expedita explicabo quis quis vel non asperiores doloru
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[aliquid-est-perferendis-commodi]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Vel est consequatur at quis.]]></title>
+		<link>http://localhost:8000/?post_type=publication&#038;p=124</link>
+		<pubDate>Tue, 22 Aug 2023 17:30:52 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8000/publication/vel-est-consequatur-at-quis/</guid>
+		<description></description>
+		<content:encoded><![CDATA[Voluptas architecto non expedita. Rerum adipisci non distinctio quis asperiores. Magni optio numquam quia nam quia. Molestiae excepturi at autem unde eum laborum vel.
+
+Officia nulla aliquid placeat omnis quod quaerat fuga quas. Ut autem impedit temporibus assumenda. Commodi et dicta ipsa dolores.
+
+Minus enim velit ullam autem. Tempora dolor aut expedita nesciunt et optio debitis. Neque distinctio ut quos officia necessitatibus sunt doloribus.Aut debitis voluptatibus veniam culpa. Maxime non adipisci dolores nostrum consequuntur. Cum nostrum et animi sunt dolorem ut. Vel nihil debitis neque qui soluta. Iure ea laboriosam dolor est vero possimus expedita. Minus et doloribus nam aut temporibus. Ut qui nulla non libero. Voluptatem est excepturi et tempora esse omnis. Dolorem nihil libero vel debitis eligendi ratione. Quo suscipit dignissimos ut et. Eos quibusdam inventore beatae reprehenderit aut eius impedit. Numquam mollitia excepturi et quia. Consequuntur animi quae minima ea. Dignissimos beatae omnis delectus libero accusantium quo. Optio tenetur quibusdam magni in dolor non. Delectus et ut dolorem et alias.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>124</wp:post_id>
+		<wp:post_date><![CDATA[2023-08-22 17:30:52]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-08-22 17:30:52]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-02-08 09:42:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-02-08 09:42:16]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[vel-est-consequatur-at-quis__trashed]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[publication]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[wp_dummy_content_generator_post]]></wp:meta_key>
+		<wp:meta_value><![CDATA[true]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[125]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1707385335]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[vel-est-consequatur-at-quis]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 				</channel>

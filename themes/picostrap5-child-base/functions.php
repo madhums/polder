@@ -176,7 +176,7 @@ add_action( 'init', 'add_page_excerpt_support' );
 // customise read more link for excerpts
 function picostrap_all_excerpts_get_more_link( $post_excerpt ) {
     if ( ! is_admin() OR ( isset($_POST['action']) && $_POST['action'] == 'lc_process_dynamic_templating_shortcode') ) {
-        $post_excerpt = $post_excerpt . '...';
+        $post_excerpt = substr($post_excerpt, 0, 240) . '...';
     }
     return $post_excerpt;
 }

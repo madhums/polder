@@ -75,7 +75,7 @@ $past = new WP_Query($past_args);
                 get_template_part('partials/cards');
             endwhile;
         else :
-            _e( 'There are no past events', 'textdomain' );
+            ?> <div class="col-md-12 text-muted py-3"><?php _e( 'There are no past events', 'textdomain' ); ?> </div> <?php
         endif;
         ?>
     </div>
